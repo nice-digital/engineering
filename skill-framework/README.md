@@ -8,7 +8,7 @@ We think it's important for a skill framework to be:
 
 * Simple and clear to use
 * Based on existing skill frameworks where possible
-* Relevant to our technologies and technical roadmap
+* Relevant to the technologies on our [technology radar](https://github.com/nice-digital/technology-radar) and technical roadmap
 * Actionable to aid career planning
 * Open for modification
 
