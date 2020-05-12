@@ -1,16 +1,13 @@
 # Programming and build (software engineering)
 
-## DDaT skill definition 
-
 You can use agreed security standards and specifications to design, create, test and document new or amended software.
 
 # Level 1 - Awareness
 
-## DDaT level definition
 No description available from DDaT
 
 ## What this level means at NICE 
-You are aware of the concept of programming code complexity and the need to minimise it
+- You are aware of the concept of programming code complexity and the need to minimise it
 
 
 # Level 2 - Working
@@ -34,7 +31,6 @@ You can design, code, test, correct and document simple programs or scripts unde
 
 # Level 3 - Practitioner
 
-## DDaT level definition
 You collaborate with others when necessary to review specifications and use these agreed specifications to design, code, test and document programs or scripts of medium to high complexity, using the right standards and tools.
 
 ## What this level means at NICE 
@@ -59,7 +55,6 @@ You collaborate with others when necessary to review specifications and use thes
 
 # Level 4 - Expert
 
-## DDaT level definition
 You can advise on the right way to apply standards and methods, ensuring compliance. You can maintain technical responsibility for all the stages and iterations of a software development project. You can provide technical advice to stakeholders and set the team-based standards for programming tools and techniques.
 ## What this level means at NICE 
 - You have specialist knowledge in one or several technologies on our technology radar and can use these technologies in the correct way (Front-end and/or back-end with database). You can provide technical advice to stakeholders and set the team-based standards for programming tools and techniques.
