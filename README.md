@@ -1,5 +1,6 @@
 # Engineering @ NICE Digital
 
 
-- [Skill framework for developers](skill-framework/README.md)
+- [Skill guidance for software developers](skill-framework/README.md)
+- [Performance reviews for software developers](perf-reviews/README.md)
 

@@ -4,12 +4,13 @@ This framework sets out skill expectations for different levels of software deve
 
 ## Principles
 
-Here are our principles we think are important for a skill framework for developers:
+We think it's important for a skill framework to be:
 
-* Guidance should be simple and clear to use
-* Should reuse existing skill frameworks where possible
-* Provide relevant and actionable guidance to aid career development
-* Should be open for modification by the team
+* Simple and clear to use
+* Based on existing skill frameworks where possible
+* Relevant to our technologies and technical roadmap
+* Actionable to aid career planning
+* Open for modification
 
 ## Digital, Data and Technology (DDaT) framework 
 
@@ -20,7 +21,6 @@ Our framework is based on the UK government [DDaT skills framework](https://www.
 A software developer designs, runs and improves software that meets user needs. In this role, you will:
 
 * be responsible for writing clean, secure code following a test-driven approach
-
 * create code that is open by default and easy for others to reuse
 
 
