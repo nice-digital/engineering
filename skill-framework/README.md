@@ -1,15 +1,19 @@
 # Skill framework for developers
 
+This framework sets out skill expectations for different levels of software developer working at NICE Digital.  
+
 ## Principles
 
-* Be simple and clear to use
+Here are our important principles relating to a skill framework for developers
+
+* Guidance should be simple and clear to use
 * Reuse existing skill frameworks as much as possible
-* Provide relevant and actionable guidance on skill development
-* Open for modification by the team
+* Provide relevant and actionable guidance to aid career development
+* Framework should be open for modification by the team
 
 ## Digital, Data and Technology (DDaT) framework 
 
-Our framework is based on and extends the DDaT skills framework for software developers. 
+Our framework is based on the UK government [DDaT skills framework](https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework) for [software developers](https://www.gov.uk/guidance/software-developer).  We added detail to explain how the skills in this framework are relevant to NICE Digital.  We have also added a few skills that we believe are missing from the framework but are relevant to working at NICE.
 
 ## What a software developer does
 
@@ -20,10 +24,7 @@ A software developer designs, runs and improves software that meets user needs. 
 * create code that is open by default and easy for others to reuse
 
 
-## Skills required to be a software developer
-You will need the following skills for this role, although the level of expertise for each will vary, depending on the role level.
-
-### Relevant skills from the DDaT framework
+## Relevant skills from the DDaT framework
 
 
 * ~~Availability and capacity management. You can define, analyse, plan, forecast, measure, maintain and improve all aspects of the availability of services, including power. You control and manage service availability to meet the needs of the business in a cost-effective manner. This includes managing the capability, functionality and sustainability of service components (for example, hardware, software, network resources and software/infrastructure as a service).~~ Proposing this is not relevant - thoughts?
@@ -44,7 +45,7 @@ You will need the following skills for this role, although the level of expertis
 
 * **User focus**. You understand users and can identify who they are and what their needs are, based on evidence. You can translate user stories and propose design approaches or services to meet these needs and engage in meaningful interactions and relationships with users. You put users first. 
 
-### Additional relevant skills 
+#### Additional relevant skills 
 
 * **Community**. You learn from and contribute to the developers community of practice. 
 
