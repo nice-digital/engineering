@@ -4,12 +4,12 @@ This framework sets out skill expectations for different levels of software deve
 
 ## Principles
 
-Here are our important principles relating to a skill framework for developers
+Here are our principles we think are important for a skill framework for developers:
 
 * Guidance should be simple and clear to use
-* Reuse existing skill frameworks as much as possible
+* Should reuse existing skill frameworks where possible
 * Provide relevant and actionable guidance to aid career development
-* Framework should be open for modification by the team
+* Should be open for modification by the team
 
 ## Digital, Data and Technology (DDaT) framework 
 
