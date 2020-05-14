@@ -10,6 +10,7 @@ We think it's important for a skill framework to be:
 * Based on existing skill frameworks where possible
 * Relevant to the technologies on our [technology radar](https://github.com/nice-digital/technology-radar) and technical roadmap
 * Actionable to aid career planning
+* Supportive of diverse individual preferences - not overly prescriptive
 * Open for modification
 
 ## Digital, Data and Technology (DDaT) framework 
