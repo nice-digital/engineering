@@ -29,7 +29,7 @@ A software developer designs, runs and improves software that meets user needs. 
 
 * ~~Availability and capacity management. You can define, analyse, plan, forecast, measure, maintain and improve all aspects of the availability of services, including power. You control and manage service availability to meet the needs of the business in a cost-effective manner. This includes managing the capability, functionality and sustainability of service components (for example, hardware, software, network resources and software/infrastructure as a service).~~ Proposing this is not relevant - thoughts?
 
-* **Information security**. You maintain the security, confidentiality and integrity of information systems through compliance with relevant legislation and regulations. You design, implement and operate controls and management strategies to allow this.
+* **[Information security](skills/information-security.md)**. You maintain the security, confidentiality and integrity of information systems through compliance with relevant legislation and regulations. You design, implement and operate controls and management strategies to allow this.
 
 * **Modern standards approach**. You use a modern standards approach throughout automation and testing.
 
