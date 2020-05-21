@@ -31,7 +31,7 @@ A software developer designs, runs and improves software that meets user needs. 
 
 * **[Information security](skills/information-security.md)**. You maintain the security, confidentiality and integrity of information systems through compliance with relevant legislation and regulations. You design, implement and operate controls and management strategies to allow this.
 
-* **Modern standards approach**. You use a modern standards approach throughout automation and testing.
+* **[Modern standards approach](skills/modern-standards-approach.md)**. You use a modern standards approach throughout automation and testing.
 
 * **[Programming and build (software engineering)](skills/programming.md)**. You can use agreed security standards and specifications to design, create, test and document new or amended software.
 
