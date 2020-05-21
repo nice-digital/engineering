@@ -31,7 +31,6 @@ You collaborate with others when necessary to review specifications and use thes
 - You have **generalist knowledge of several technologies** on our technology radar and can use these technologies in the correct way. This could be [front-end](https://github.com/nice-digital/technology-radar/blob/master/frontend.md) and/or [back-end](https://github.com/nice-digital/technology-radar/blob/master/backend.md) with [database](https://github.com/nice-digital/technology-radar/blob/master/databases.md).
 - You can collaborate with testers to build **medium to high complexity** web applications
 - You can write automated tests at the [appropriate level](https://www.thoughtworks.com/radar/techniques/test-at-the-appropriate-level) with guidance from others
-- You follow the [GDS Technology Code of Practice](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice) when building software
 - You can apply complex code refactorings to reduce complexity
 test-at-the-appropriate-level).
 - You can apply object-oriented software design principles appropriately for maintainability and extensibility
@@ -46,9 +45,7 @@ You can advise on the right way to apply standards and methods, ensuring complia
 ## What this means at NICE 
 - You have **specialist knowledge in one or several technologies** on our technology radar and can use these technologies in the correct way.  This could be [front-end](https://github.com/nice-digital/technology-radar/blob/master/frontend.md) and/or [back-end](https://github.com/nice-digital/technology-radar/blob/master/backend.md) with [database](https://github.com/nice-digital/technology-radar/blob/master/databases.md). You can provide technical advice to stakeholders and set the team-based standards for programming tools and techniques.
 
-- You ensure **compliance** with the [GDS Technology Code of Practice](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice) when building software.
-
-- You can use refactorings to complex legacy code
+- You can apply refactorings to complex legacy codebases
 
 # Skill expectations per role
 See how the developer roles at NICE Digital relate to skill levels

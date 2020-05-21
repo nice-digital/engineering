@@ -26,6 +26,7 @@ You can competently use a modern standards approach and guide others in so doing
 ### What this means at NICE 
 - You can competently apply modern standards
 - You can competently apply development practices
+- You follow the [GDS Technology Code of Practice](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice) when building software
 - You guide others in using these
 
 ## Level 4 - Expert
@@ -36,6 +37,7 @@ You demonstrate strong understanding and application of the most appropriate mod
 
 - You demonstrate strong understanding and application of modern standards
 - You demonstrate strong understanding and application of development practices
+- You ensure compliance with the [GDS Technology Code of Practice](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice) when building software
 - You coach and guide others
 
 # Skill expectations per role
