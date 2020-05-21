@@ -37,7 +37,7 @@ A software developer designs, runs and improves software that meets user needs. 
 
 * **[Programming and build (software engineering)](skills/programming.md)**. You can use agreed security standards and specifications to design, create, test and document new or amended software.
 
-* **Prototyping**. You can apply technical knowledge and experience to create or design workable prototypes, both programs and physical outputs.
+* **[Prototyping](skills/prototyping.md)**. You can apply technical knowledge and experience to create or design workable prototypes, both programs and physical outputs.
 
 * **Systems design**. You can design software with consideration for maintainability, extensibility, performance and security. You can improve the design of a system as it evolves.
 
