@@ -50,9 +50,9 @@ A software developer designs, runs and improves software that meets user needs. 
 
 #### Additional relevant skills 
 
-* **Community**. You share your work and learn from other developers working across NICE Digital.
+* **[Community involvement](skills/community-involvement.md)**. You share your work and learn from other developers working across NICE Digital.
 
-* **Developing others** You help others to develop their skills.
+* **[Developing others](skills/developing-others.md)** You help others to develop their skills.
 
 
 
