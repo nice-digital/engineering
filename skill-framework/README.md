@@ -42,7 +42,7 @@ A software developer designs, runs and improves software that meets user needs. 
 
 * **[Systems design](skills/systems-design.md)**. You can design software with consideration for maintainability, extensibility, performance and security. You can improve the design of a system as it evolves.
 
-* **Systems integration**. You can plan, build and test the integration of software systems.
+* **[Systems integration](skills/systems-integration.md)**. You can plan, build and test the integration of software systems.
 
 * **Service support**. You can maintain and support services.
 
