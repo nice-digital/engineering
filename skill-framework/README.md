@@ -46,7 +46,7 @@ A software developer designs, runs and improves software that meets user needs. 
 
 * **[Service support](skills/service-support.md)**. You can maintain and support services.
 
-* **User focus**. You understand users and can identify who they are and what their needs are, based on evidence. You can translate user stories and propose design approaches or services to meet these needs and engage in meaningful interactions and relationships with users. You put users first. 
+* **[User focus](skills/user-focus.md)**. You understand users and can identify who they are and what their needs are, based on evidence. You can translate user stories and propose design approaches or services to meet these needs and engage in meaningful interactions and relationships with users. You put users first. 
 
 #### Additional relevant skills 
 
