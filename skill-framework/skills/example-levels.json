@@ -1,0 +1,8 @@
+{
+  "levels": [
+    {"id": 0, "name": "Awareness"},
+    {"id": 1, "name": "Working"},
+    {"id": 2, "name": "Practitioner"},
+    {"id": 3, "name": "Expert"}
+  ]
+}

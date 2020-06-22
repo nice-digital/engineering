@@ -1,0 +1,41 @@
+- name: Programming and build
+  id: 0
+  levels:
+    - name: Awareness
+      examples:
+        - "Example"
+        - "Example"
+    - name: Working
+      examples: 
+        - "Example"
+        - "Example"
+    - name: Practitioner
+      examples: 
+        - "Example"
+        - "Example"
+    - name: Expert
+      examples: 
+        - "Example"
+        - "Example"
+- name: Developing others
+  id: 1
+  levels:
+    - name: Awareness
+      examples:
+        - "Example"
+        - "Example"
+    - name: Working
+      examples: 
+        - "Example"
+        - "Example"
+    - name: Practitioner
+      examples: 
+        - "Example"
+        - "Example"
+    - name: Expert
+      examples: 
+        - "Example"
+        - "Example"
+
+
+        
