@@ -1,18 +1,16 @@
-{
-  "roles": [
-    { 
-      "name": "Junior developer",
-      "skillsLevels": [
-        {"skillId": 0, "levelId": 0 },
-        {"skillId": 1, "levelId": 0 }
-      ]
-    },
-    { 
-      "name": "Developer",
-      "skillsLevels": [
-        {"skillId": 0, "levelId": 1 },
-        {"skillId": 1, "levelId": 1 }
-      ]
-    }
-  ]
-}
+[
+  { 
+    "name": "Junior developer",
+    "skillsLevels": [
+      {"skillId": 0, "levelId": 0 },
+      {"skillId": 1, "levelId": 0 }
+    ]
+  },
+  { 
+    "name": "Developer",
+    "skillsLevels": [
+      {"skillId": 0, "levelId": 1 },
+      {"skillId": 1, "levelId": 1 }
+    ]
+  }
+]
