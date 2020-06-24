@@ -1,14 +1,14 @@
 [
   { 
     "name": "Junior developer",
-    "skillsLevels": [
+    "skillLevels": [
       {"skillId": 0, "levelId": 0 },
       {"skillId": 1, "levelId": 0 }
     ]
   },
   { 
     "name": "Developer",
-    "skillsLevels": [
+    "skillLevels": [
       {"skillId": 0, "levelId": 1 },
       {"skillId": 1, "levelId": 1 }
     ]
