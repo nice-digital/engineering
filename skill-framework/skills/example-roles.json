@@ -1,16 +1,114 @@
 [
   { 
+    "name": "Apprentice developer",
+    "skillLevels": [
+      {"skillId": 0, "levelId": 0 },
+      {"skillId": 1, "levelId": 0 },
+      {"skillId": 2, "levelId": 0 },
+      {"skillId": 3, "levelId": 0 },
+      {"skillId": 4, "levelId": 0 },
+      {"skillId": 5, "levelId": 0 },
+      {"skillId": 6, "levelId": 0 },
+      {"skillId": 7, "levelId": 0 },
+      {"skillId": 8, "levelId": 0 },
+      {"skillId": 9, "levelId": 0 },
+      {"skillId": 10, "levelId": 0 }
+    ]
+  },
+  { 
     "name": "Junior developer",
     "skillLevels": [
       {"skillId": 0, "levelId": 0 },
-      {"skillId": 1, "levelId": 0 }
+      {"skillId": 1, "levelId": 0 },
+      {"skillId": 2, "levelId": 1 },
+      {"skillId": 3, "levelId": 0 },
+      {"skillId": 4, "levelId": 0 },
+      {"skillId": 5, "levelId": 0 },
+      {"skillId": 6, "levelId": 0 },
+      {"skillId": 7, "levelId": 0 },
+      {"skillId": 8, "levelId": 0 },
+      {"skillId": 9, "levelId": 0 },
+      {"skillId": 10, "levelId": 0 }
     ]
   },
   { 
     "name": "Developer",
     "skillLevels": [
+      {"skillId": 0, "levelId": 0 },
+      {"skillId": 1, "levelId": 1 },
+      {"skillId": 2, "levelId": 1 },
+      {"skillId": 3, "levelId": 1 },
+      {"skillId": 4, "levelId": 1 },
+      {"skillId": 5, "levelId": 1 },
+      {"skillId": 6, "levelId": 1 },
+      {"skillId": 7, "levelId": 1 },
+      {"skillId": 8, "levelId": 1 },
+      {"skillId": 9, "levelId": 1 },
+      {"skillId": 10, "levelId": 1 }
+    ]
+  },
+  { 
+    "name": "Senior developer (management)",
+    "skillLevels": [
       {"skillId": 0, "levelId": 1 },
-      {"skillId": 1, "levelId": 1 }
+      {"skillId": 1, "levelId": 2 },
+      {"skillId": 2, "levelId": 2 },
+      {"skillId": 3, "levelId": 2 },
+      {"skillId": 4, "levelId": 2 },
+      {"skillId": 5, "levelId": 2 },
+      {"skillId": 6, "levelId": 2 },
+      {"skillId": 7, "levelId": 2 },
+      {"skillId": 8, "levelId": 1 },
+      {"skillId": 9, "levelId": 1 },
+      {"skillId": 10, "levelId": 2 }
+    ]
+  },
+  { 
+    "name": "Senior developer (technical)",
+    "skillLevels": [
+      {"skillId": 0, "levelId": 1 },
+      {"skillId": 1, "levelId": 2 },
+      {"skillId": 2, "levelId": 2 },
+      {"skillId": 3, "levelId": 2 },
+      {"skillId": 4, "levelId": 2 },
+      {"skillId": 5, "levelId": 2 },
+      {"skillId": 6, "levelId": 2 },
+      {"skillId": 7, "levelId": 2 },
+      {"skillId": 8, "levelId": 1 },
+      {"skillId": 9, "levelId": 1 },
+      {"skillId": 10, "levelId": 2 }
+    ]
+  },
+  { 
+    "name": "Lead developer (management)",
+    "skillLevels": [
+      {"skillId": 0, "levelId": 2 },
+      {"skillId": 1, "levelId": 2 },
+      {"skillId": 2, "levelId": 3 },
+      {"skillId": 3, "levelId": 2 },
+      {"skillId": 4, "levelId": 2 },
+      {"skillId": 5, "levelId": 2 },
+      {"skillId": 6, "levelId": 2 },
+      {"skillId": 7, "levelId": 2 },
+      {"skillId": 8, "levelId": 2 },
+      {"skillId": 9, "levelId": 2 },
+      {"skillId": 10, "levelId": 3 }
+    ]
+  },
+  { 
+    "name": "Lead developer (technical)",
+    "skillLevels": [
+      {"skillId": 0, "levelId": 1 },
+      {"skillId": 1, "levelId": 2 },
+      {"skillId": 2, "levelId": 3 },
+      {"skillId": 3, "levelId": 3 },
+      {"skillId": 4, "levelId": 2 },
+      {"skillId": 5, "levelId": 2 },
+      {"skillId": 6, "levelId": 2 },
+      {"skillId": 7, "levelId": 2 },
+      {"skillId": 8, "levelId": 1 },
+      {"skillId": 9, "levelId": 2 },
+      {"skillId": 10, "levelId": 2 }
     ]
   }
 ]

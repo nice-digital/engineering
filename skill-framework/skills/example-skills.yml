@@ -1,41 +1,237 @@
-- name: Programming and build
+- name: Development process optimisation
   id: 0
   levels:
     - name: Awareness
       examples:
-        - "Example"
-        - "Example"
+        - You can spot development process inefficiencies and raise issues at standups or retrospectives.
+        - You can support specific activities to improve development processes.
     - name: Working
       examples: 
-        - "Example"
-        - "Example"
+        - You suggest improvements to development process issues
+        - You contribute to the implementation of improvements
+        - You help and collaborate throughout the software development lifecycle
     - name: Practitioner
       examples: 
-        - "Example"
-        - "Example"
+        - You can measure improvements to development team productivity
+        - You can plan, implement and coordinate development process optimisations as experiments with your team
+        - You can coach others through development process optimisations
+        - You take ownership of seeing work through the entire software development lifecycle
     - name: Expert
       examples: 
-        - "Example"
-        - "Example"
-- name: Developing others
+        - Not applicable for this role
+- name: Information security
   id: 1
   levels:
     - name: Awareness
       examples:
-        - "Example"
-        - "Example"
+        - You are aware of the high level implications to the organisation posed by security threats
+        - You are aware of the common vulnerabilities listed by [OWASP](https://owasp.org/www-project-top-ten/) that affect web applications and the associated mitigations
     - name: Working
       examples: 
-        - "Example"
-        - "Example"
+        - You understand how to apply mitigations to the common vulnerabilities listed by [OWASP](https://owasp.org/www-project-top-ten/) using our [adopted technologies](https://github.com/nice-digital/technology-radar). 
     - name: Practitioner
       examples: 
-        - "Example"
-        - "Example"
+        - You can model threats to applications during development to identify security risks
+        - You can design and fix code with security controls embedded, specifically engineered as mitigation against security threats as a core part of the solutions and services.
     - name: Expert
       examples: 
-        - "Example"
-        - "Example"
+        - Not applicable for this role
+- name: Modern standards approach
+  id: 2
+  levels:
+    - name: Awareness
+      examples:
+        - Not applicable for this role
+    - name: Working
+      examples: 
+        - You can apply modern standards with guidance:
+          - Web standards (HTML/HTTP/REST)
+          - [Accessibility](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction) 
+        - You can apply development practices with guidance:
+          - Test-driven development
+          - [Continuous delivery](https://continuousdelivery.com/)
+    - name: Practitioner
+      examples: 
+        - You can competently apply modern standards
+        - You can competently apply development practices
+        - You follow the [GDS Technology Code of Practice](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice) when building software
+        - You guide others in using these
+    - name: Expert
+      examples: 
+        - You demonstrate strong understanding and application of modern standards
+        - You demonstrate strong understanding and application of development practices
+        - You ensure compliance with the [GDS Technology Code of Practice](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice) when building software
+        - You coach and guide others
+- name: Programming and build
+  id: 3
+  levels:
+    - name: Awareness
+      examples:
+        - You can program simple applications and scripts
+        - You can write automated tests with guidance
+    - name: Working
+      examples: 
+        - You have knowledge of a few key technologies on our technology radar and can use these technologies in the correct way with guidance.   This could be [front-end](https://github.com/nice-digital/technology-radar/blob/master/frontend.md) and/or [back-end](https://github.com/nice-digital/technology-radar/blob/master/backend.md) with [database](https://github.com/nice-digital/technology-radar/blob/master/databases.md).
+        - You can build low to medium complexity programs, in line with standards.
+        - You can write automated tests at the [appropriate level](https://www.thoughtworks.com/radar/techniques/test-at-the-appropriate-level) with guidance from others
+        - You know how to apply simple code refactorings to reduce complexity
+        - You are aware of object-oriented software design principles and can apply these with guidance for maintainability and extensibility
+        - You update documentation in line with agreed standards
+        - You know how to measure application performance and can make simple performance enhancements
+    - name: Practitioner
+      examples: 
+        - You have **generalist knowledge of several technologies** on our technology radar and can use these technologies in the correct way. This could be [front-end](https://github.com/nice-digital/technology-radar/blob/master/frontend.md) and/or [back-end](https://github.com/nice-digital/technology-radar/blob/master/backend.md) with [database](https://github.com/nice-digital/technology-radar/blob/master/databases.md).
+        - You can collaborate with testers to build **medium to high complexity** web applications
+        - You can write automated tests at the [appropriate level](https://www.thoughtworks.com/radar/techniques/test-at-the-appropriate-level) with guidance from others
+        - You can apply complex code refactorings to reduce complexity
+        test-at-the-appropriate-level).
+        - You can apply object-oriented software design principles appropriately for maintainability and extensibility
+        - You can configure efficient pipelines to build, test and deploy code to production
+        - You monitor key software quality metrics (code coverage, application logs) to maintain appropriate quality across the team
+        - You can optimise application performance
+    - name: Expert
+      examples: 
+        - You have **specialist knowledge in one or several technologies** on our technology radar and can use these technologies in the correct way.  This could be [front-end](https://github.com/nice-digital/technology-radar/blob/master/frontend.md) and/or [back-end](https://github.com/nice-digital/technology-radar/blob/master/backend.md) with [database](https://github.com/nice-digital/technology-radar/blob/master/databases.md). You can provide technical advice to stakeholders and set the team-based standards for programming tools and techniques.
+        - You can apply refactorings to complex legacy codebases
+- name: Prototyping
+  id: 4
+  levels:
+    - name: Awareness
+      examples:
+        - You can explain what prototyping is and why and when to use it.
+    - name: Working
+      examples: 
+        - You know when to use a specific prototyping technique or method (paper sketching, coding, mocks)   
+        - You can contribute to prototypes with guidance
+        - You can identify different options and discuss them in the context of technical restrictions and implementation complexity.
+    - name: Practitioner
+      examples: 
+        - You develop prototypes and test them collaboratively with other disciplines on your team.
+        - You know a variety of methods of prototyping development work before implementing and can choose the most appropriate ones (for example paper sketching, code spikes, mocks/stubs, feature switching)
+        - You can produce prototypes for more difficult problems
+    - name: Expert
+      examples: 
+        - Not applicable for this role
+- name: Systems design
+  id: 5
+  levels:
+    - name: Awareness
+      examples:
+        - You can assist as part of a team on design of components of larger systems. 
+    - name: Working
+      examples: 
+        - You can follow a specification to design the architecture of systems characterised by ***low*** levels of technical challenge and risk.
+        - You define data schema in collaboration with Data Architect
+        - You can work with well understood technology on our [technology radar](https://github.com/nice-digital/technology-radar)
+        - You can document software design using our [agreed diagramming standards](https://nicedigital.atlassian.net/wiki/spaces/DEV/pages/108331124/Diagrams)
+    - name: Practitioner
+      examples: 
+        - You can follow a specification to design the architecture of systems characterised by ***medium*** levels of technical challenge and risk.
+        - You design software systems with consideration for security, performance and resource efficiency requirements.
+        - You identify, plan and implement system design improvements
+        - You advise on appropriate technology usage for the build using guidance from the [technology radar](https://github.com/nice-digital/technology-radar) governance framework
+    - name: Expert
+      examples: 
+        - Not applicable for this role
+- name: Systems integration
+  id: 6
+  levels:
+    - name: Awareness
+      examples:
+        - You can integrate and test components, systems and their interfaces with supervision
+    - name: Working
+      examples: 
+        - You can integrate systems in a way that is resilient to failure using [common patterns](https://en.wikipedia.org/wiki/Circuit_breaker_design_pattern)
+        - You contribute to the integration plan
+        - You can follow best practice for designing and building well documented API's
+    - name: Practitioner
+      examples:
+        - You plan how to integration systems in an incremental way to minimise risk
+        - You ensure integration testing is efficient and appropriate 
+        - You implement interface versioning correctly to maintain compatibility whilst adding new features
+        - You can use different [patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/) to integrating systems
+        - You monitor and fix integration performance issues
+    - name: Expert
+      examples: 
+        - Not applicable for this role
+- name: Service support
+  id: 7
+  levels:
+    - name: Awareness
+      examples:
+        - You work with other developers to investigate and fix issues
+    - name: Working
+      examples: 
+        - You can help fix live service issues with guidance
+        - You can upgrade software versions and dependancies
+    - name: Practitioner
+      examples: 
+        - You take responsibility for meeting live service issue [SLAs](https://nicedigital.atlassian.net/wiki/spaces/AS/pages/581796008/Problem+Management+Process) 
+        - You proactively monitor services to identify, locate and fix faults.
+    - name: Expert
+      examples: 
+        - Not applicable for this role
+- name: User focus
+  id: 8
+  levels:
+    - name: Awareness
+      examples:
+        - You can explain user experience analysis techniques in use at NICE
+        - You can collaborate to write user stories and focus on user needs
+        - You observe user research and users testing your software
+    - name: Working
+      examples: 
+        - You understand who your users are and the tasks that they are trying to do
+        - You can identify the KPI’s that demonstrate successful user outcomes for your teams software
+        - You proactively engage with users to clarify ambiguous development requirements and negotiate implementation options
+    - name: Practitioner
+      examples: 
+        - You can champion user research to focus on all users
+        - You plan for developers on your team to observe user research and testing
+        - You promote early and regular user testing during development to test assumptions
+    - name: Expert
+      examples: 
+        - Not applicable for this role
+- name: Community participation
+  id: 9
+  levels:
+    - name: Awareness
+      examples:
+        - You understand how to find out about community events
+        - You understand how to seek help from the development community
+        - You can signpost others to relevant community events 
+    - name: Working
+      examples: 
+        - You promote your team’s technical work via lightning talks or blog posts.
+        - You seek guidance from the community on how to improve your skills and team practices
+    - name: Practitioner
+      examples: 
+        - You identify opportunities for others on your team to contribute to the community
+    - name: Expert
+      examples: 
+        - You facilitate the initiation of communities of practice
+        - You develop sustainable community practices
+- name: Developing others
+  id: 10
+  levels:
+    - name: Awareness
+      examples:
+        - You can point others to the right people to help
+    - name: Working
+      examples: 
+        - You can assist others in solving specific technical problems
+        - You know techniques to give constructive feedback effectively
+    - name: Practitioner
+      examples: 
+        - You can identify when others need help
+        - You can use a question-led approach to coaching developers through specific technical problems in order to develop skill
+        - You can assess the skill level of others during recruitment
+    - name: Expert
+      examples: 
+        - You are aware of the wellbeing of developers on your team 
+        - You motivate developers on your team by providing them with a supportive environment for learning (impact, choice, improvement)
+        - You enable long term career development planning and performance feedback
+        - You assign stretch opportunities to develop skill of others
 
 
         
