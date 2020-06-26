@@ -44,12 +44,8 @@
         - Not applicable for this role
     - name: Working
       examples: 
-        - You can apply modern standards with guidance:
-          - Web standards (HTML/HTTP/REST)
-          - [Accessibility](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction) 
-        - You can apply development practices with guidance:
-          - Test-driven development
-          - [Continuous delivery](https://continuousdelivery.com/)
+        - You can apply web standards (HTML/HTTP/REST) and [accessibility](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction) with guidance
+        - You can apply development practices such as test-driven development and continuous delivery with guidance
     - name: Practitioner
       examples: 
         - You can competently apply modern standards
