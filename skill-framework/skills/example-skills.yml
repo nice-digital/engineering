@@ -80,7 +80,6 @@
         - You can collaborate with testers to build **medium to high complexity** web applications
         - You can write automated tests at the [appropriate level](https://www.thoughtworks.com/radar/techniques/test-at-the-appropriate-level) with guidance from others
         - You can apply complex code refactorings to reduce complexity
-        test-at-the-appropriate-level).
         - You can apply object-oriented software design principles appropriately for maintainability and extensibility
         - You can configure efficient pipelines to build, test and deploy code to production
         - You monitor key software quality metrics (code coverage, application logs) to maintain appropriate quality across the team
