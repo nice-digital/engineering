@@ -1,6 +1,17 @@
 [
   { 
     "name": "Apprentice developer",
+    "summary" : {
+      "blurb": "An apprentice developer attends certified training and develops skills on the job. In this role, you will:",
+      "bullets": [
+        "spend a substantial portion of time shadowing others",
+        "work with other developers to write code and tests",
+        "build your own knowledge",
+        "follow a test-driven approach",
+        "build your own knowledge",
+        "write code that is automatically tested"
+      ] 
+    },
     "skillLevels": [
       {"skillId": 0, "levelId": 0 },
       {"skillId": 1, "levelId": 0 },
@@ -17,6 +28,15 @@
   },
   { 
     "name": "Junior developer",
+    "summary" : {
+      "blurb": "A junior developer learns on the job by delivering software components. At this level, you will:",
+      "bullets": [
+        "develop skills while working under supervision to deliver stories in a multidisciplinary team",
+        "understand and be proficient in different types of testing",
+        "be aware of but not responsible for security",
+        "coach and mentor more junior colleagues"
+      ] 
+    },
     "skillLevels": [
       {"skillId": 0, "levelId": 0 },
       {"skillId": 1, "levelId": 0 },
@@ -33,6 +53,16 @@
   },
   { 
     "name": "Developer",
+    "summary" : {
+      "blurb": "A developer delivers software components that form part of a product. In this role, you will:",
+      "bullets": [
+        "develop software to meet user needs",
+        "follow best-practice guidelines and help to improve those guidelines",
+        "write clean, secure and well-tested code",
+        "coach and mentor more junior colleagues",
+        "operate the services they build and identify issues in production"
+      ] 
+    },
     "skillLevels": [
       {"skillId": 0, "levelId": 0 },
       {"skillId": 1, "levelId": 1 },
@@ -49,6 +79,17 @@
   },
   { 
     "name": "Senior developer (management)",
+    "summary" : {
+      "blurb": "A senior developer delivers and integrates software to form a complete service. At this level, you will:",
+      "bullets": [
+        "plan and lead development on sets of related stories",
+        "have an understanding of the whole system and take responsibility for teaching this to others",
+        "work with other disciplines to understand what needs to be built",
+        "coach and mentor more junior colleagues",
+        "operate the production services you build",
+        "find ways to improve system robustness, resilience and stability"
+      ] 
+    },
     "skillLevels": [
       {"skillId": 0, "levelId": 1 },
       {"skillId": 1, "levelId": 2 },
@@ -65,6 +106,17 @@
   },
   { 
     "name": "Senior developer (technical)",
+    "summary" : {
+      "blurb": "A senior developer delivers and integrates software to form a complete service. At this level, you will:",
+      "bullets": [
+        "plan and lead development on sets of related stories",
+        "have an understanding of the whole system and take responsibility for teaching this to others",
+        "work with other disciplines to understand what needs to be built",
+        "coach and mentor more junior colleagues",
+        "operate the production services you build",
+        "find ways to improve system robustness, resilience and stability"
+      ] 
+    },
     "skillLevels": [
       {"skillId": 0, "levelId": 1 },
       {"skillId": 1, "levelId": 2 },
@@ -81,6 +133,17 @@
   },
   { 
     "name": "Lead developer (management)",
+    "summary" : {
+      "blurb": "A lead developer leads development on one or a small number of related project teams. At this level, you will:",
+      "bullets": [
+        "guide the ways in which the team works",
+        "be proficient in a wide range of technical systems",
+        "be involved in identifying appropriate technology and approaches, deciding when software should be written",
+        "contribute to the developer community",
+        "provide technical leadership, coach and mentor your team",
+        "promote knowledge sharing and adoption of good practice"
+      ] 
+    },
     "skillLevels": [
       {"skillId": 0, "levelId": 2 },
       {"skillId": 1, "levelId": 2 },
@@ -97,6 +160,17 @@
   },
   { 
     "name": "Lead developer (technical)",
+    "summary" : {
+      "blurb": "A lead developer leads development on one or a small number of related project teams. At this level, you will:",
+      "bullets": [
+        "guide the ways in which the team works",
+        "be proficient in a wide range of technical systems",
+        "be involved in identifying appropriate technology and approaches, deciding when software should be written",
+        "contribute to the developer community",
+        "provide technical leadership, coach and mentor your team",
+        "promote knowledge sharing and adoption of good practice"
+      ] 
+    },
     "skillLevels": [
       {"skillId": 0, "levelId": 1 },
       {"skillId": 1, "levelId": 2 },
