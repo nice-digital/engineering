@@ -1,5 +1,6 @@
-- name: Development process optimisation
+- name: Development process optimisation  
   id: 0
+  desc: You contribute to improving development process efficiency and the common ways in which processes are optimised.
   levels:
     - name: Awareness
       examples:
@@ -21,6 +22,7 @@
         - Not applicable for this role
 - name: Information security
   id: 1
+  desc: You maintain the security, confidentiality and integrity of information systems through compliance with relevant legislation and regulations. You design, implement and operate controls and management strategies to allow this.
   levels:
     - name: Awareness
       examples:
@@ -38,6 +40,7 @@
         - Not applicable for this role
 - name: Modern standards approach
   id: 2
+  desc: You use a modern standards approach throughout automation and testing.
   levels:
     - name: Awareness
       examples:
@@ -60,6 +63,7 @@
         - You coach and guide others
 - name: Programming and build
   id: 3
+  desc: You can use agreed security standards and specifications to design, create, test and document new or amended software.
   levels:
     - name: Awareness
       examples:
@@ -90,6 +94,7 @@
         - You can apply refactorings to complex legacy codebases
 - name: Prototyping
   id: 4
+  desc: You can apply technical knowledge and experience to create or design workable prototypes, both programs and physical outputs.
   levels:
     - name: Awareness
       examples:
@@ -109,6 +114,7 @@
         - Not applicable for this role
 - name: Systems design
   id: 5
+  desc: You can design software with consideration for maintainability, extensibility, performance and security. You can improve the design of a system as it evolves.
   levels:
     - name: Awareness
       examples:
@@ -130,6 +136,7 @@
         - Not applicable for this role
 - name: Systems integration
   id: 6
+  desc: You can plan, build and test the integration of software systems.
   levels:
     - name: Awareness
       examples:
@@ -151,6 +158,7 @@
         - Not applicable for this role
 - name: Service support
   id: 7
+  desc: You can maintain and support services.
   levels:
     - name: Awareness
       examples:
@@ -168,6 +176,7 @@
         - Not applicable for this role
 - name: User focus
   id: 8
+  desc: You understand users and can identify who they are and what their needs are, based on evidence. You can translate user stories and propose design approaches or services to meet these needs and engage in meaningful interactions and relationships with users. You put users first.
   levels:
     - name: Awareness
       examples:
@@ -189,6 +198,7 @@
         - Not applicable for this role
 - name: Community participation
   id: 9
+  desc: You share your work and learn from other developers working across NICE Digital.
   levels:
     - name: Awareness
       examples:
@@ -208,6 +218,7 @@
         - You develop sustainable community practices
 - name: Developing others
   id: 10
+  desc: You help others to develop their skills
   levels:
     - name: Awareness
       examples:
