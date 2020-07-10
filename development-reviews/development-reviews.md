@@ -6,7 +6,7 @@ Development reviews are intended to help establish career developmet plans for t
 ## Key differences
 Some key differences over past PDP/Appraisals you may have experienced at NICE: 
 
-* We will be using a [skill competency framework](/skill-framework/skill-framework.md) for:
+* We will be using a [skill competency framework](skill-framework/skill-framework.md) for:
   * Reviewing current skills levels against skill level expectations
   * Planning skill development based on ambitions
 * We have two tracks: technical and management at both senior and lead levels
