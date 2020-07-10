@@ -84,11 +84,13 @@
         - You can competently find and fix performance issues
         - You monitor key software quality metrics (code coverage, application error logs) to maintain appropriate quality
         - You can optimise application performance
+        - You contribute to the technical strategy of how to improve technology usage to improve outcomes
     - name: Expert
       examples: 
         - You have deep specialist knowledge in one or more technologies
         - You can apply refactorings to complex legacy codebases
         - You are the go-to person for solving hard programming problems
+        - You lead the technical strategy of how to improve technology usage to improve outcomes
 - name: Prototyping
   id: 4
   desc: You can apply technical knowledge and experience to create or design workable prototypes, both programs and physical outputs.
@@ -226,14 +228,13 @@
     - name: Practitioner
       examples: 
         - You develop skill by using a question-led approach to guide others through problems without giving solutions
-        - You identify work opportunities for others to develop their skill
+        - You delegate appropriately challenging tasks to others on your team
         - You can assess the skill level of others during recruitment
     - name: Expert
       examples: 
         - You are responsible of the wellbeing of developers on your team 
         - You motivate developers on your team by providing them with a supportive environment for learning (impact, choice, improvement)
         - You enable and support career development planning for developers
-        - You assign stretch opportunities to develop skill of others
 
 
         
