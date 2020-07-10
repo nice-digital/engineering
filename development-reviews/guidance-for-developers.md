@@ -22,14 +22,12 @@ Your development plan is yours, not your managers or anyone elses.  It should ca
 * Work with your manager to identify an appropriately challenging stretch objective for yourself
 
 ## What to do after the meeting
-* Check that you and your line support are happy with their development plan
-* Check you've added any relevant comments on your line supports development plan page at the bottom
-* Export your line supports development plan as PDF and email to hradvice
+* Check that you are happy with your development plan, if not, continue discussions with your manager
 
 ## What NOT to do with your development review
-
 * Don't turn up to the meeting with an empty form.  It's important that you have a go at filling it in as it's your plan.  But any questions feel free to ask questions in advance
 * Don't turn up with no feedback from anyone
+* Don't come up with a plan and then hide it away for 12 months.  Progress will come from regular feedback and review conversations
 
 # 3 month reviews
 * you'll be having a conversation about your development plan with your line manager every 3 months going forward to ensure a regular conversation happens and you get the opportunities and support you need
