@@ -10,13 +10,12 @@
       examples: 
         - You suggest improvements to development process issues
         - You contribute to the implementation of improvements
-        - You help and collaborate throughout the software development lifecycle
+        - You proactively collaborate with other disciplines throughout the software development lifecycle
     - name: Practitioner
       examples: 
-        - You can measure improvements to development team productivity
-        - You can plan, implement and coordinate development process optimisations as experiments with your team
-        - You can coach others through development process optimisations
-        - You take ownership of seeing work through the entire software development lifecycle
+        - You use data to measure development process efficiency and improve outcomes (such as cycle time)
+        - You proactively improve the build, test and deploy pipelines to deliver value quickly and safely to production
+        - You take ownership of seeing work through to live, not just development
     - name: Expert
       examples: 
         - Not applicable for this role
@@ -26,15 +25,18 @@
   levels:
     - name: Awareness
       examples:
-        - You are aware of the high level implications to the organisation posed by security threats
+        - You are aware of the high level risks to the organisation posed by cyber security threats
         - You are aware of the common vulnerabilities listed by [OWASP](https://owasp.org/www-project-top-ten/) that affect web applications and the associated mitigations
+        - You can implement security mitigations with guidance
     - name: Working
       examples: 
         - You understand how to apply mitigations to the common vulnerabilities listed by [OWASP](https://owasp.org/www-project-top-ten/) using our [adopted technologies](https://github.com/nice-digital/technology-radar). 
+        - You can spot security issues during code reviews and advise on fixes
     - name: Practitioner
       examples: 
-        - You can model threats to applications during development to identify security risks
-        - You can design and fix code with security controls embedded, specifically engineered as mitigation against security threats as a core part of the solutions and services.
+        - You proactively model threats to applications during development to identify security risks
+        - You can design applications to be secure-by-default
+        - You take responsibility for delivering secure software and promote security awareness within your team
     - name: Expert
       examples: 
         - Not applicable for this role
@@ -47,19 +49,18 @@
         - Not applicable for this role
     - name: Working
       examples: 
-        - You can apply web standards (HTML/HTTP/REST) and [accessibility](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction) with guidance
-        - You can apply development practices such as test-driven development and continuous delivery with guidance
+        - You use a test-driven approach with guidance
+        - You can make small changes to fix automated build pipelines
     - name: Practitioner
       examples: 
-        - You can competently apply modern standards
-        - You can competently apply development practices
-        - You follow the [GDS Technology Code of Practice](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice) when building software
-        - You guide others in using these
+        - You can competently use a test-driven approach
+        - You can competently configure build and deploy pipelines
+        - You proactively collaborate with testers to write tests
     - name: Expert
       examples: 
-        - You demonstrate strong understanding and application of modern standards
-        - You demonstrate strong understanding and application of development practices
-        - You ensure compliance with the [GDS Technology Code of Practice](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice) when building software
+        - You demonstrate strong understanding and application test-driven development
+        - You advise on the correct level of test automation to use
+        - You ensure automation enables fast and iterative build deployments
         - You coach and guide others
 - name: Programming and build
   id: 3
@@ -71,44 +72,38 @@
         - You can write automated tests with guidance
     - name: Working
       examples: 
-        - You have knowledge of a few key technologies on our technology radar and can use these technologies in the correct way with guidance.   This could be [front-end](https://github.com/nice-digital/technology-radar/blob/master/frontend.md) and/or [back-end](https://github.com/nice-digital/technology-radar/blob/master/backend.md) with [database](https://github.com/nice-digital/technology-radar/blob/master/databases.md).
-        - You can build low to medium complexity programs, in line with standards.
-        - You can write automated tests at the [appropriate level](https://www.thoughtworks.com/radar/techniques/test-at-the-appropriate-level) with guidance from others
-        - You know how to apply simple code refactorings to reduce complexity
-        - You are aware of object-oriented software design principles and can apply these with guidance for maintainability and extensibility
-        - You update documentation in line with agreed standards
-        - You know how to measure application performance and can make simple performance enhancements
+        - You can design, build and test production quality software for **small to medium** scale applications
+        - You can use one programming language in the correct way
+        - You can write well structured and readible code with clear responsibilities
+        - You can apply simple code refactorings
+        - You can find and fix performance issues with guidance
     - name: Practitioner
       examples: 
-        - You have **generalist knowledge of several technologies** on our technology radar and can use these technologies in the correct way. This could be [front-end](https://github.com/nice-digital/technology-radar/blob/master/frontend.md) and/or [back-end](https://github.com/nice-digital/technology-radar/blob/master/backend.md) with [database](https://github.com/nice-digital/technology-radar/blob/master/databases.md).
-        - You can collaborate with testers to build **medium to high complexity** web applications
-        - You can write automated tests at the [appropriate level](https://www.thoughtworks.com/radar/techniques/test-at-the-appropriate-level) with guidance from others
-        - You can apply complex code refactorings to reduce complexity
-        - You can apply object-oriented software design principles appropriately for maintainability and extensibility
-        - You can configure efficient pipelines to build, test and deploy code to production
-        - You monitor key software quality metrics (code coverage, application logs) to maintain appropriate quality across the team
+        - You can design, build and test production quality software for **medium to large** scale applications
+        - You can apply trickier structural code refactorings
+        - You can competently find and fix performance issues
+        - You monitor key software quality metrics (code coverage, application error logs) to maintain appropriate quality
         - You can optimise application performance
     - name: Expert
       examples: 
-        - You have **specialist knowledge in one or several technologies** on our technology radar and can use these technologies in the correct way.  This could be [front-end](https://github.com/nice-digital/technology-radar/blob/master/frontend.md) and/or [back-end](https://github.com/nice-digital/technology-radar/blob/master/backend.md) with [database](https://github.com/nice-digital/technology-radar/blob/master/databases.md). You can provide technical advice to stakeholders and set the team-based standards for programming tools and techniques.
+        - You have deep specialist knowledge in one or more technologies
         - You can apply refactorings to complex legacy codebases
+        - You are the go-to person for solving hard programming problems
 - name: Prototyping
   id: 4
   desc: You can apply technical knowledge and experience to create or design workable prototypes, both programs and physical outputs.
   levels:
     - name: Awareness
       examples:
-        - You can explain what prototyping is and why and when to use it.
+        - You can explain which technical prototyping methods apply to software development work.
+        - You can explain the importance of rapid prototyping
     - name: Working
-      examples: 
-        - You know when to use a specific prototyping technique or method (paper sketching, coding, mocks)   
-        - You can contribute to prototypes with guidance
-        - You can identify different options and discuss them in the context of technical restrictions and implementation complexity.
+      examples:    
+        - You can develop simple prototyped pages or components of an application
+        - You seek feedback quickly to avoid wasted development efforts
     - name: Practitioner
       examples: 
-        - You develop prototypes and test them collaboratively with other disciplines on your team.
-        - You know a variety of methods of prototyping development work before implementing and can choose the most appropriate ones (for example paper sketching, code spikes, mocks/stubs, feature switching)
-        - You can produce prototypes for more difficult problems
+        - You can develop more involved prototypes involving interactions between components or systems
     - name: Expert
       examples: 
         - Not applicable for this role
@@ -118,18 +113,19 @@
   levels:
     - name: Awareness
       examples:
-        - You can assist as part of a team on design of components of larger systems. 
+        - You can assist as part of a team on design of components of larger systems 
+        - You understand about software design concepts such as interfaces, low coupling and high cohesion
     - name: Working
       examples: 
-        - You can follow a specification to design the architecture of systems characterised by ***low*** levels of technical challenge and risk.
-        - You define data schema in collaboration with Data Architect
-        - You can work with well understood technology on our [technology radar](https://github.com/nice-digital/technology-radar)
-        - You can document software design using our [agreed diagramming standards](https://nicedigital.atlassian.net/wiki/spaces/DEV/pages/108331124/Diagrams)
+        - You can design maintainable, extensible and performant application architectures for **small to medium** scale applications
+        - You can design components within the existing architecture of larger systems
+        - You can identify different design options and discuss the tradeoffs
+        - You can spot software design problems and apply refactorings with guidance
     - name: Practitioner
       examples: 
-        - You can follow a specification to design the architecture of systems characterised by ***medium*** levels of technical challenge and risk.
-        - You design software systems with consideration for security, performance and resource efficiency requirements.
-        - You identify, plan and implement system design improvements
+        - You can design maintainable, extensible and performant application architectures for **medium to large** scale applications
+        - You take responsibility for the health of overall application architecture
+        - You proactively improve system design through refactorings 
         - You advise on appropriate technology usage for the build using guidance from the [technology radar](https://github.com/nice-digital/technology-radar) governance framework
     - name: Expert
       examples: 
@@ -141,18 +137,20 @@
     - name: Awareness
       examples:
         - You can integrate and test components, systems and their interfaces with supervision
+        - You understand that distributed systems will fail and the implications this can have on dependant systems
     - name: Working
       examples: 
-        - You can integrate systems in a way that is resilient to failure using [common patterns](https://en.wikipedia.org/wiki/Circuit_breaker_design_pattern)
-        - You contribute to the integration plan
-        - You can follow best practice for designing and building well documented API's
+        - You can write code to integrate systems in a way that is resilient to failure using [common patterns](https://en.wikipedia.org/wiki/Circuit_breaker_design_pattern)
+        - You can write tests that test system integration 
+        - You design and build well documented API's and interfaces
+        - You can debug problems with integrated systems with guidance
     - name: Practitioner
       examples:
-        - You plan how to integration systems in an incremental way to minimise risk
+        - You plan system integrations to avoid risks of large scale change (big bang) 
         - You ensure integration testing is efficient and appropriate 
-        - You implement interface versioning correctly to maintain compatibility whilst adding new features
+        - You can evolve interfaces to maintain compatibility whilst enabling new functionality
         - You can use different [patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/) to integrating systems
-        - You monitor and fix integration performance issues
+        - You can debug performance problems with integrated systems
     - name: Expert
       examples: 
         - Not applicable for this role
@@ -166,7 +164,6 @@
     - name: Working
       examples: 
         - You can help fix live service issues with guidance
-        - You can upgrade software versions and dependancies
     - name: Practitioner
       examples: 
         - You take responsibility for meeting live service issue [SLAs](https://nicedigital.atlassian.net/wiki/spaces/AS/pages/581796008/Problem+Management+Process) 
@@ -180,19 +177,18 @@
   levels:
     - name: Awareness
       examples:
-        - You can explain user experience analysis techniques in use at NICE
-        - You can collaborate to write user stories and focus on user needs
+        - You understand the importance of understanding and meeting user needs
         - You observe user research and users testing your software
     - name: Working
       examples: 
-        - You understand who your users are and the tasks that they are trying to do
-        - You can identify the KPI’s that demonstrate successful user outcomes for your teams software
-        - You proactively engage with users to clarify ambiguous development requirements and negotiate implementation options
+        - You can explain who your users are and the tasks that they are trying to do
+        - You can identify the KPI’s that demonstrate successful user outcomes for your teams services
+        - You proactively engage with business analysts and users to clarify requirements and negotiate implementation options
     - name: Practitioner
       examples: 
-        - You can champion user research to focus on all users
-        - You plan for developers on your team to observe user research and testing
-        - You promote early and regular user testing during development to test assumptions
+        - You champion user research to focus on all users
+        - You enable developers on your team to observe user research and testing
+        - You seek early and regular user feedback during development to validate user satisfaction
     - name: Expert
       examples: 
         - Not applicable for this role
@@ -202,41 +198,41 @@
   levels:
     - name: Awareness
       examples:
-        - You understand how to find out about community events
-        - You understand how to seek help from the development community
-        - You can signpost others to relevant community events 
+        - You understand the benefits of being a member of a software development community
+        - You ask for help and advice from the community to improve your skills
+        - You attend internal community events relevant to your work
     - name: Working
       examples: 
-        - You promote your team’s technical work via lightning talks or blog posts.
-        - You seek guidance from the community on how to improve your skills and team practices
+        - You promote your team’s technical work via lightning talks, in-depth sessions or blog posts with guidance
     - name: Practitioner
       examples: 
-        - You identify opportunities for others on your team to contribute to the community
+        - You take responsibility for sharing your teams technical work and methods with the wider development community
+        - You identify opportunities to reuse solutions and avoid duplicating effort
+        - You encourage others to participate in community activities
     - name: Expert
       examples: 
-        - You facilitate the initiation of communities of practice
-        - You develop sustainable community practices
+        - Not applicable for this role
 - name: Developing others
   id: 10
   desc: You help others to develop their skills
   levels:
     - name: Awareness
       examples:
-        - You can point others to the right people to help
+        - You can point others to learning resources
     - name: Working
       examples: 
         - You can assist others in solving specific technical problems
-        - You know techniques to give constructive feedback effectively
+        - You give specific, actionable feedback on skill development through pair programming or code reviews
     - name: Practitioner
       examples: 
-        - You can identify when others need help
-        - You can use a question-led approach to coaching developers through specific technical problems in order to develop skill
+        - You develop skill by using a question-led approach to guide others through problems without giving solutions
+        - You identify work opportunities for others to develop their skill
         - You can assess the skill level of others during recruitment
     - name: Expert
       examples: 
-        - You are aware of the wellbeing of developers on your team 
+        - You are responsible of the wellbeing of developers on your team 
         - You motivate developers on your team by providing them with a supportive environment for learning (impact, choice, improvement)
-        - You enable long term career development planning and performance feedback
+        - You enable and support career development planning for developers
         - You assign stretch opportunities to develop skill of others
 
 
