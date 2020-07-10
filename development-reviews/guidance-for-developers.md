@@ -14,10 +14,22 @@ Your development plan is yours, not your managers or anyone elses.  It should ca
   * The form is self explanatary but you can read the NICE HR's [Employee's guidance](http://space.nice.org.uk/sorce/beacon/dmdr/92191/view/Employee%20Guidance.docx) and [Employee step-by-step](http://space.nice.org.uk/sorce/beacon/dmdr/92091/view/Employee%20step%20by%20step%20guide.docx) from NICE Intranet. (NOTE we're using confluence template, not the My Contribution word document ,but its very similar).
 
 * Share the form and any 360 feedback with your manager in advance of your development review meeting (if you can)
-* Discuss your feedback and development plan with your manager at your development review meeting
 
+
+## What to do at the meeting
+* Read the [Employee's guidance](http://space.nice.org.uk/sorce/beacon/dmdr/92191/view/Employee%20Guidance.docx) from the NICE intranet for guidance on what to do at the review meeting
+* Discuss your feedback and development plan with your manager, they may make suggestions.
+* Work with your manager to identify an appropriately challenging stretch objective for yourself
+
+## What to do after the meeting
+* Check that you and your line support are happy with their development plan
+* Check you've added any relevant comments on your line supports development plan page at the bottom
+* Export your line supports development plan as PDF and email to hradvice
 
 ## What NOT to do with your development review
 
 * Don't turn up to the meeting with an empty form.  It's important that you have a go at filling it in as it's your plan.  But any questions feel free to ask questions in advance
 * Don't turn up with no feedback from anyone
+
+# 3 month reviews
+* you'll be having a conversation about your development plan with your line manager every 3 months going forward to ensure a regular conversation happens and you get the opportunities and support you need
