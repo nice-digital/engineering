@@ -1,6 +1,6 @@
 # Skill framework for developers
 
-This framework sets out skill competency areas and levels of expected skill for different levels of software developer working at NICE Digital.  The framework is competency based
+This framework sets out [skill competencies](https://nice-digital.github.io/develop-your-skills/#/framework) and levels of expected skill for different levels of software developer working at NICE Digital. 
 
 ## What is a competency?
 
