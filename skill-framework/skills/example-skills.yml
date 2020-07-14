@@ -50,17 +50,17 @@
     - name: Working
       examples: 
         - You use a test-driven approach with guidance
-        - You can make small changes to fix automated build pipelines
+        - You can make small changes to fix automated building, packaging and deploying of code changes
     - name: Practitioner
       examples: 
         - You can competently use a test-driven approach
-        - You can competently configure build and deploy pipelines
+        - You can competently configure the building, packaging and deploying of code changes
         - You proactively collaborate with testers to write tests
     - name: Expert
       examples: 
         - You demonstrate strong understanding and application test-driven development
         - You advise on the correct level of test automation to use
-        - You ensure automation enables fast and iterative build deployments
+        - You ensure automation enables fast and iterative code deployments
         - You coach and guide others
 - name: Programming and build
   id: 3
@@ -72,23 +72,25 @@
         - You can write automated tests with guidance
     - name: Working
       examples: 
-        - You can design, build and test production quality software for **small to medium** scale applications
-        - You can use one programming language in the correct way
+        - You can deliver small to medium scale features within an existing applications
+        - You can design small to medium scale applications
+        - You have good knowledge of how to use one programming language in the correct way
         - You can write well structured and readible code with clear responsibilities
         - You can apply simple code refactorings
         - You can find and fix performance issues with guidance
     - name: Practitioner
       examples: 
-        - You can design, build and test production quality software for **medium to large** scale applications
-        - You can apply trickier structural code refactorings
+        - You can lead the delivery of medium to large scale features within existing applications
+        - You can lead the design, build and test production quality software for medium scale applications
+        - You take responsibility for maintaining high quality and low complexity of code in your team
+        - You have knowledge of several different types of technologies and can use them the correct way
         - You can competently find and fix performance issues
-        - You monitor key software quality metrics (code coverage, application error logs) to maintain appropriate quality
         - You can optimise application performance
-        - You contribute to the technical strategy of how to improve technology usage to improve outcomes
+        - You help set direction of your team's technology strategy to improve outcomes
     - name: Expert
       examples: 
         - You have deep specialist knowledge in one or more technologies
-        - You can apply refactorings to complex legacy codebases
+        - You can evolve complex legacy codebases safely
         - You are the go-to person for solving hard programming problems
         - You lead the technical strategy of how to improve technology usage to improve outcomes
 - name: Prototyping
@@ -142,7 +144,7 @@
         - You understand that distributed systems will fail and the implications this can have on dependant systems
     - name: Working
       examples: 
-        - You can write code to integrate systems in a way that is resilient to failure using [common patterns](https://en.wikipedia.org/wiki/Circuit_breaker_design_pattern)
+        - You can write code to integrate API's/components/systems in a way that is resilient to failure using [common patterns](https://en.wikipedia.org/wiki/Circuit_breaker_design_pattern)
         - You can write tests that test system integration 
         - You design and build well documented API's and interfaces
         - You can debug problems with integrated systems with guidance
