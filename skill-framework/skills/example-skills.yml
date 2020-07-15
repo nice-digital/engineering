@@ -70,29 +70,28 @@
       examples:
         - You can program simple applications and scripts
         - You can write automated tests with guidance
+        - You follow coding best practice
+        - You can use one [front-end or back-end programming language/framework](https://nice-digital.github.io/technology-radar/) with guidance
     - name: Working
       examples: 
-        - You can deliver small to medium scale features within an existing applications
-        - You can design small to medium scale applications
-        - You have good knowledge of how to use one programming language in the correct way
-        - You can write well structured and readible code with clear responsibilities
-        - You can apply simple code refactorings
+        - You can deliver small to medium scale features within an existing application architecture
+        - You follow best practice, writing well structured and readible code with clear responsibilities
+        - You can use one [front-end or back-end programming language/framework](https://nice-digital.github.io/technology-radar/) competently
+        - You can apply simple code refactorings to reduce complexity
         - You can find and fix performance issues with guidance
     - name: Practitioner
       examples: 
-        - You can lead the delivery of medium to large scale features within existing applications
-        - You can lead the design, build and test production quality software for medium scale applications
-        - You take responsibility for maintaining high quality and low complexity of code in your team
-        - You have knowledge of several different types of technologies and can use them the correct way
-        - You can competently find and fix performance issues
-        - You can optimise application performance
-        - You help set direction of your team's technology strategy to improve outcomes
+        - You can lead the delivery of larger features or applications
+        - You take responsibility for maintaining high quality and low complexity of source code
+        - You can use several [programming languages/frameworks/technologies](https://nice-digital.github.io/technology-radar/) competently
+        - You can competently fix and optimise application performance
+        - You find ways to improve system robustness, resilience and security  
     - name: Expert
       examples: 
-        - You have deep specialist knowledge in one or more technologies
-        - You can evolve complex legacy codebases safely
+        - You have deep specialist knowledge in one or more [programming languages/frameworks/technologies](https://nice-digital.github.io/technology-radar/)
+        - You can evolve complex legacy codebases safely and effectively
         - You are the go-to person for solving hard programming problems
-        - You lead the technical strategy of how to improve technology usage to improve outcomes
+        - You oversee technical work with high level of challenge and/or risk
 - name: Prototyping
   id: 4
   desc: You can apply technical knowledge and experience to create or design workable prototypes, both programs and physical outputs.
@@ -121,16 +120,16 @@
         - You understand about software design concepts such as interfaces, low coupling and high cohesion
     - name: Working
       examples: 
-        - You can design maintainable, extensible and performant application architectures for **small to medium** scale applications
+        - You can design application architectures for **small to medium** scale applications to be maintainable and extensible
         - You can design components within the existing architecture of larger systems
         - You can identify different design options and discuss the tradeoffs
         - You can spot software design problems and apply refactorings with guidance
     - name: Practitioner
       examples: 
-        - You can design maintainable, extensible and performant application architectures for **medium to large** scale applications
-        - You take responsibility for the health of overall application architecture
-        - You proactively improve system design through refactorings 
-        - You advise on appropriate technology usage for the build using guidance from the [technology radar](https://github.com/nice-digital/technology-radar) governance framework
+        - You can design application architectures for **medium to large** scale applications to be maintainable, extensible and performant
+        - You take responsibility to ensure application architecture is fit-for-purpose
+        - You proactively minimise system design complexity through refactorings 
+        - You advise on appropriate technology usage for the build using guidance from the [technology radar](https://nice-digital.github.io/technology-radar/) governance framework
     - name: Expert
       examples: 
         - Not applicable for this role
@@ -146,7 +145,7 @@
       examples: 
         - You can write code to integrate API's/components/systems in a way that is resilient to failure using [common patterns](https://en.wikipedia.org/wiki/Circuit_breaker_design_pattern)
         - You can write tests that test system integration 
-        - You design and build well documented API's and interfaces
+        - You design and build well documented API's and interfaces for use by other developers
         - You can debug problems with integrated systems with guidance
     - name: Practitioner
       examples:
