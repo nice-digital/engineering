@@ -1,7 +1,10 @@
 
 # Development reviews one-pager
 
-Development reviews are intended to help establish career developmet plans for the next 12 month period. 
+Development reviews are to:
+* reflect on your strengths and areas for improvement over the last 12 months  
+* reflect on your ambitions
+* plan your career development for the next 12 months 
 
 ## Key differences
 Some key differences over past PDP/Appraisals you may have experienced at NICE: 
