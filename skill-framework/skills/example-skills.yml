@@ -130,7 +130,7 @@
         - You understand anti-patterns and the reasons why some approaches are preferred over others (e.g. composition vs inheritance).
     - name: Practitioner
       examples: 
-        - You write well-architected object-oriented code
+        - You build well-architected object-oriented or modular systems
         - You are aware of a range of design patterns and principles and can apply them appropriately
         - You can spot more nuanced software design problems and know a wider range of refactoring techniques
         - You take responsibility for minimising system complexity
