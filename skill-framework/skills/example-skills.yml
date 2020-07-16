@@ -49,19 +49,19 @@
         - Not applicable for this role
     - name: Working
       examples: 
-        - You use a test-driven approach with guidance
+        - You use a test-driven approach to writing code, with guidance
         - You can make small changes to fix automated building, packaging and deploying of code changes
     - name: Practitioner
       examples: 
-        - You can competently use a test-driven approach
+        - You can competently use a test-driven approach, using the testing pyramid appropriately
+        - You proactively collaborate with testers to write and review test cases
         - You can competently configure the building, packaging and deploying of code changes
-        - You proactively collaborate with testers to write tests
+        - You can assist web operations engineers with infrastructure automation scripts
     - name: Expert
       examples: 
         - You demonstrate strong understanding and application test-driven development
-        - You advise on the correct level of test automation to use
-        - You ensure automation enables fast and iterative code deployments
-        - You coach and guide others
+        - You ensure the fast building, testing and deploying of code
+        - You are familiar with different approaches to building, testing and deploying code
 - name: Programming and build
   id: 3
   desc: You can use agreed security standards and specifications to design, create, test and document new or amended software.
@@ -74,24 +74,25 @@
         - You can use one [front-end or back-end programming language/framework](https://nice-digital.github.io/technology-radar/) with guidance
     - name: Working
       examples: 
-        - You can deliver small to medium scale features within an existing application architecture
+        - You can deliver features within an existing application architecture, in line with the [GDS Technology Code of Practice](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice)
         - You follow best practice, writing well structured and readible code with clear responsibilities
         - You can use one [front-end or back-end programming language/framework](https://nice-digital.github.io/technology-radar/) competently
         - You can apply simple code refactorings to reduce complexity
         - You can find and fix performance issues with guidance
     - name: Practitioner
       examples: 
-        - You can lead the delivery of larger features or applications
-        - You take responsibility for maintaining high quality and low complexity of source code
+        - You can lead the delivery of larger features or whole applications, in line with the [GDS Technology Code of Practice](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice)
+        - You take responsibility for maintaining high quality and low complexity source code
         - You can use several [programming languages/frameworks/technologies](https://nice-digital.github.io/technology-radar/) competently
         - You can competently fix and optimise application performance
         - You find ways to improve system robustness, resilience and security  
     - name: Expert
       examples: 
         - You have deep specialist knowledge in one or more [programming languages/frameworks/technologies](https://nice-digital.github.io/technology-radar/)
-        - You can evolve complex legacy codebases safely and effectively
         - You are the go-to person for solving hard programming problems
-        - You oversee technical work with high level of challenge and/or risk
+        - You are accountable for the delivery of engineering work with high level of challenge and/or risk
+        - You are comfortable working with multiple programming paradigms (imperative, functional, etc).
+        - You take a proactive role in researching and evaluating new languages, frameworks, and technologies that would fit a purpose within NICE.
 - name: Prototyping
   id: 4
   desc: You can apply technical knowledge and experience to create or design workable prototypes, both programs and physical outputs.
@@ -102,7 +103,8 @@
         - You can explain the importance of rapid prototyping
     - name: Working
       examples:    
-        - You can develop simple prototyped pages or components of an application
+        - You can develop simple prototyped pages, wireframes or components of an application
+        - You are confident in debating and presenting prototypes and working directly with non-technical staff (e.g. UX / design) 
         - You seek feedback quickly to avoid wasted development efforts
     - name: Practitioner
       examples: 
@@ -116,20 +118,23 @@
   levels:
     - name: Awareness
       examples:
-        - You can assist as part of a team on design of components of larger systems 
-        - You understand about software design concepts such as interfaces, low coupling and high cohesion
+        - You are learning about object-oriented design fundamentals and apply these to your work with guidance (encapsulation, inheritance, abstraction, polymorphism)
+        - You have minimal understanding of design patterns
+        - You can assist as part of a team on the design of components of larger systems 
     - name: Working
-      examples: 
-        - You can design application architectures for **small to medium** scale applications to be maintainable and extensible
-        - You can design components within the existing architecture of larger systems
-        - You can identify different design options and discuss the tradeoffs
-        - You can spot software design problems and apply refactorings with guidance
+      examples:
+        - You understand object-oriented design fundamentals and apply these to your work (encapsulation, inheritance, abstraction, polymorphism)
+        - You are learning software design principles and patterns, and are starting to incorporate them 
+        - You can apply modular system design to small and medium scale problems
+        - You can spot software design problems and apply simple refactorings
+        - You understand anti-patterns and the reasons why some approaches are preferred over others (e.g. composition vs inheritance).
     - name: Practitioner
       examples: 
-        - You can design application architectures for **medium to large** scale applications to be maintainable, extensible and performant
-        - You take responsibility to ensure application architecture is fit-for-purpose
-        - You proactively minimise system design complexity through refactorings 
-        - You advise on appropriate technology usage for the build using guidance from the [technology radar](https://nice-digital.github.io/technology-radar/) governance framework
+        - You write well-architected object-oriented code
+        - You are aware of a range of design patterns and principles and can apply them appropriately
+        - You can spot more nuanced software design problems and know a wider range of refactoring techniques
+        - You take responsibility for minimising system complexity
+        - You advise on overall application design
     - name: Expert
       examples: 
         - Not applicable for this role
@@ -201,17 +206,17 @@
   levels:
     - name: Awareness
       examples:
-        - You understand the benefits of being a member of a software development community
-        - You ask for help and advice from the community to improve your skills
-        - You attend internal community events relevant to your work
+        - You participate in some community events, such as code training, talks and discussions.
     - name: Working
       examples: 
-        - You promote your team’s technical work via lightning talks, in-depth sessions or blog posts with guidance
+        - You occasionally promote your team’s technical work via tech talks or blog posts, with guidance
+        - You contribute to community discussions
     - name: Practitioner
       examples: 
-        - You take responsibility for sharing your teams technical work and methods with the wider development community
-        - You identify opportunities to reuse solutions and avoid duplicating effort
-        - You encourage others to participate in community activities
+        - You run coding sessions, or more in-depth technical community sessions 
+        - You promote your team's technical work and methods
+        - You promote participation and contribution to community events, especially to your team members.
+        - You can deliver training on your areas of expertise
     - name: Expert
       examples: 
         - Not applicable for this role
@@ -229,13 +234,13 @@
     - name: Practitioner
       examples: 
         - You develop skill by using a question-led approach to guide others through problems without giving solutions
-        - You delegate appropriately challenging tasks to others on your team
+        - You delegate appropriately challenging tasks to others on your team to aid skill development
         - You can assess the skill level of others during recruitment
     - name: Expert
       examples: 
-        - You are responsible of the wellbeing of developers on your team 
-        - You motivate developers on your team by providing them with a supportive environment for learning (impact, choice, improvement)
-        - You enable and support career development planning for developers
+        - You create a positive, engaging, safe and supportive environment for team members to grow and do their best work.
+        - You spend a signifant proportion of your time supporting and mentoring others on your team  
+        - You enable and support longer-term career development planning for developers
 
 
         
