@@ -7,7 +7,7 @@ Your development plan is yours, not your managers or anyone elses.  It should ca
 
 ## How to prepare for your own development review
 
-* Ask for [360 feedback from your colleagues](https://nice-digital.github.io/develop-your-skills/#/feedback). Do this first so that people have time to provide feedback. Multiple perspectives are more useful than one perspective. You should be seeking feedback from your manager and some of the people that you've worked with. 
+* Ask for [360 feedback from your colleagues](https://nice-digital.github.io/develop-your-skills/#/feedback). Do this first so that people have time to provide feedback (give them a week before your review if you can). Multiple perspectives are more useful than one perspective. You should be seeking feedback from your manager and some of the people that you've worked with, including from people working in related disciplines. 
 * Create yourself a confluence page in the [DEV space](https://nicedigital.atlassian.net/wiki/spaces/DEV/overview) using the 'Career development plan - software developer' template.  Call your page 'Career development plan - ${Firstname} ${Lastname}'.
 * Click the padlock icon in the top right and make this page only visible to yourself and your line manager.
 * Fill in your career development plan page yourself (plan a couple of hours for this)
@@ -17,7 +17,7 @@ Your development plan is yours, not your managers or anyone elses.  It should ca
 
 ## What to do at the meeting
 * Read the [Employee's guidance](http://space.nice.org.uk/sorce/beacon/dmdr/92191/view/Employee%20Guidance.docx) from the NICE intranet for guidance on what to do at the review meeting
-* Discuss your feedback and development plan with your manager, they may make suggestions.
+* Discuss your 360 feedback and development plan with your manager, they may make suggestions.
 * Work with your manager to identify an appropriately challenging stretch objective for yourself
 
 ## What to do after the meeting

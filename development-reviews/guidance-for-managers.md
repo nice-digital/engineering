@@ -12,7 +12,8 @@
 
 ## What to do at the meeting
 * Follow the guidance in the [Managers guidance document](http://space.nice.org.uk/sorce/beacon/dmdr/92181/view/Manager's%20Guidance.docx) from the NICE intranet for guidance on how to behave at the meeting
-* Discuss how relevant and achievable the objectives are in their development plan.  Help to identify a stretch objective that will challenge them appropriately
+* Review their 360 feedback to identify strengths and areas for development
+* Discuss how relevant and achievable the objectives are in their development plan.  Help to identify a stretch objective that will challenge them appropriately in relation to their development ambitions
 
 ## What to do after the meeting
 * Check that you and your line support are happy with their development plan
