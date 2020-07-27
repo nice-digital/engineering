@@ -78,34 +78,7 @@
     ]
   },
   { 
-    "name": "Senior developer (management)",
-    "summary" : {
-      "blurb": "A senior developer delivers and integrates software to form a complete service. At this level, you will:",
-      "bullets": [
-        "plan and lead development on sets of related stories",
-        "have an understanding of the whole system and take responsibility for teaching this to others",
-        "work with other disciplines to understand what needs to be built",
-        "coach and mentor more junior colleagues",
-        "operate the production services you build",
-        "find ways to improve system robustness, resilience and stability"
-      ] 
-    },
-    "skillLevels": [
-      {"skillId": 0, "levelId": 1 },
-      {"skillId": 1, "levelId": 2 },
-      {"skillId": 2, "levelId": 2 },
-      {"skillId": 3, "levelId": 2 },
-      {"skillId": 4, "levelId": 2 },
-      {"skillId": 5, "levelId": 2 },
-      {"skillId": 6, "levelId": 2 },
-      {"skillId": 7, "levelId": 2 },
-      {"skillId": 8, "levelId": 1 },
-      {"skillId": 9, "levelId": 1 },
-      {"skillId": 10, "levelId": 2 }
-    ]
-  },
-  { 
-    "name": "Senior developer (technical)",
+    "name": "Senior developer",
     "summary" : {
       "blurb": "A senior developer delivers and integrates software to form a complete service. At this level, you will:",
       "bullets": [

@@ -12,7 +12,7 @@ Some key differences over past PDP/Appraisals you may have experienced at NICE:
 * We will be using a [skill competency framework](../skill-framework/skill-framework.md) for:
   * Reviewing current skills levels against skill level expectations
   * Planning skill development based on ambitions
-* We have two tracks: technical and management at both senior and lead levels
+* We have two tracks: technical and management at lead developer level
 * We recognise ambitions to get better in your current role or to work towards a different role
 * We have a new form to support the review process
 * Development plans should be only contain skill development objectives.  Objectives relating to specific project deliverables should NOT be in development plans and should be tracked via established team processes (JIRA boards).  This is for consistency and visibility
