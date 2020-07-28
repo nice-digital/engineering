@@ -1,4 +1,16 @@
 # Engineering @ NICE Digital
 
-- [Skill competency framework for software developers](skill-framework/skill-framework.md)
-- [Development reviews for software developers](development-reviews/development-reviews.md)
+This repository captures the way engineering works at [NICE Digital](https://www.nice.org.uk/get-involved/jobs/digital).
+
+## Engineering principles
+Read about our [engineering principles](principles/principles.md).
+
+## Growth framework for software developers
+
+Read about our: 
+- [Skill competency framework](skill-framework/skill-framework.md)
+- [How we do development reviews](development-reviews/development-reviews.md)
+
+## Technology radar
+Read about our [stance on technology usage](https://nice-digital.github.io/technology-radar/).
+
