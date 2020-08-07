@@ -24,6 +24,8 @@
 
 # Learning path: Community participation
 
+See [general learning path info](learning-paths.md)
+
 The community of practice is a great way to learn from others who share the same professional discipline.  The community helps to proliferate better practice and ideas across teams that don't interact regularly.
 
 ## Level - Awareness

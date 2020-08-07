@@ -2,6 +2,9 @@
 
 Find learning resources for [skill competencies](https://nice-digital.github.io/develop-your-skills/#/framework)
 
+## Use DocToc to auto generate tables of contents
+Install and use [doctoc](https://www.npmjs.com/package/doctoc)
+
 ## Key
 - Books are denoted using 📘
 - Blogs / articles are denoted using 📃

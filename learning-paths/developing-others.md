@@ -1,3 +1,30 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Learning path: Developing others](#learning-path-developing-others)
+  - [Level - Awareness](#level---awareness)
+    - [Learn how to use active listening](#learn-how-to-use-active-listening)
+  - [Level - Working](#level---working)
+    - [Learn how to ask for feedback](#learn-how-to-ask-for-feedback)
+    - [Learn how to give actionable feedback](#learn-how-to-give-actionable-feedback)
+    - [Learn how to pair program](#learn-how-to-pair-program)
+    - [Learn how to be an induction buddy](#learn-how-to-be-an-induction-buddy)
+  - [Level - Practitioner](#level---practitioner)
+    - [Learn how to be someones mentor](#learn-how-to-be-someones-mentor)
+    - [Learn how to use a question-led coaching approach](#learn-how-to-use-a-question-led-coaching-approach)
+    - [Learn how to delegate to develop skill](#learn-how-to-delegate-to-develop-skill)
+  - [Level - Expert](#level---expert)
+    - [Learn how to do one-to-ones](#learn-how-to-do-one-to-ones)
+    - [Learn how to create a safe environment for learning](#learn-how-to-create-a-safe-environment-for-learning)
+    - [Learn how to motivate developers](#learn-how-to-motivate-developers)
+    - [Learn about the differences between coaching/mentoring/sponsoring](#learn-about-the-differences-between-coachingmentoringsponsoring)
+    - [Learn how to be a facilitating leader](#learn-how-to-be-a-facilitating-leader)
+    - [Learn about people management](#learn-about-people-management)
+    - [Learn about how to manage poor performance](#learn-about-how-to-manage-poor-performance)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Learning path: Developing others
 
 See [general learning path info](learning-paths.md)
