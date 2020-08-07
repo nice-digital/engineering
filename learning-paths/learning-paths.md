@@ -2,6 +2,13 @@
 
 Find learning resources for [skill competencies](https://nice-digital.github.io/develop-your-skills/#/framework)
 
+## Key
+- Books are denoted using 📘
+- Blogs / articles are denoted using 📃
+- Videos are denoted using 📺
+
+## Skills
+
 * [Development process optimisation](development-process-optimisation.md)
 * [Information security](information-security.md)
 * [Modern standards approach](modern-standards-approach.md)

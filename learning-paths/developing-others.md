@@ -12,7 +12,7 @@ See [general learning path info](learning-paths.md)
 ### Learn how to ask for feedback
 - Ask others for feedback on specific skills.  360 feedback works best as feedback from many perspectives is more helpful
 
-### Learn how to give constructive feedback
+### Learn how to give actionable feedback
 - 📃[Understand how being radically candid helps when giving feedback](https://www.radicalcandor.com/our-approach/)
 - 📘[The managers handbook - coaching and feedback](https://themanagershandbook.com/coaching-feedback#giving-feedback)
 - 📃[Technique for structuring feedback - feedback equation worksheet](https://wherewithall.com/tools/#oneonone)
@@ -33,6 +33,7 @@ See [general learning path info](learning-paths.md)
 ### Learn how to use a question-led coaching approach
 - 📘[Resilient management by Lara Hogan - Chapter 'grow your teammates' - in our library](https://nicedigital.atlassian.net/wiki/spaces/DH/pages/1013448717/Ebooks)
 - 📺[How to use a coaching approach](https://nicelearning.udemy.com/course/management-coaching-become-an-employee-performance-coach/)
+- 📘[Technical agile coaching by Emily Bache](https://leanpub.com/techagilecoach)
 
 ### Learn how to delegate to develop skill
 - 📃[Use delegation poker for different types of delegation](https://management30.com/practice/delegation-poker/)
@@ -49,6 +50,7 @@ See [general learning path info](learning-paths.md)
 - Demonstrate that making mistakes are ok by sharing stories about failure
 - Protect time for learning and experimentation
 - Facilitate group learning
+- Facilitate emsemble / [mob programming](https://mobprogrammingguidebook.xyz/Download/MobProgrammingGuidebook.pdf) sessions with your team
 
 ### Learn how to motivate developers
 - 📃[Intrinsic vs extrinsic motivation](https://www.verywellmind.com/differences-between-extrinsic-and-intrinsic-motivation-2795384)
