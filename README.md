@@ -5,6 +5,9 @@ This repository captures the way engineering works at [NICE Digital](https://www
 ## Engineering principles
 Read about our [engineering principles](principles/principles.md).
 
+## Engineering practices
+Read about our [engineering practices](practices/practices.md).
+
 ## Growth framework for software developers
 
 Read about our: 
