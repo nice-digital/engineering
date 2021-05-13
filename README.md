@@ -19,6 +19,6 @@ Read about our:
 Read about our [stance on technology usage](https://nice-digital.github.io/technology-radar/) at NICE Digital.
 
 ## Engineering management
-Read about how [engineering management](management/management.md) works
+Read about how [engineering management](management/principles.md) works
 
 

@@ -1,0 +1,27 @@
+# Engineering management
+
+## Principles
+
+Here are some things that we believe are important when it comes to engineering management
+
+### Care for your team
+Build rapport by showing that you care about the wellbeing of your colleagues.  This means recognising the influence of personal life on work life.  Take time to ask how someone's weekend or holiday was, and be prepared to share your own experiences.  Ask questions but respect privacy and boundaries.  Don't be offended if colleagues don't want to talk about things outside of work.  Recognise and value individual differences and experiences.
+
+### Use feedback effectively
+Effective feedback enables positive outcomes.  It's important to praise good work and also recognise and learn from when things don't go so well.  Effective feedback is timely, specific and actionable for the recipient.    Invest time in learning techniques to give effective feedback.  It's not just a skill for managers, but an essential skill for anyone working with others.  Poorly delivered feedback can leave the recipient feeling patronised, confused or dejected.  Invest the same effort in giving praise that you would do giving constructive feedback.
+
+### Ask questions and listen
+Learn how to ask questions to drive discussion and get different perspectives.  Create space for others to share their suggestions/solutions first, before jumping in with your solution.  Create an inclusive environment for discussion and encourage others to speak.  Listen and respect differences in opinion, even if they challenge your own views.
+
+### Model values
+How you behave as a manager influences others.  Use this as an opportunity for you to model the behaviours that you wish the team to follow too.   If you want to encourage others to ask for feedback, lead by example and first ask for feedback from your team.  Share your failures, lessons and personal stories to help create a safe environment for others to do so to.
+
+### Develop leaders, not followers
+Solving problems effectively, means delegating ownership and decision making to your team. They are likely to be closer to the problem details than you are. Use the expertise within your team to solve problems.  As a manager, beware that providing solutions can demotivate your creative colleagues.  Use delegation to enable opportunities for personal development of others, and sponsor people for work that you think will appropriately challenge them.
+
+### Practice your craft
+It's important to find time to practice your craft.  This helps you to stay connected to the challenges facing your team.  
+
+## Practices
+Read about the [engineering management](practices.md) practices we employ
+
