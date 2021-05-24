@@ -16,8 +16,11 @@ Learn how to ask questions to drive discussion and get different perspectives.  
 ### Model values
 How you behave as a manager influences others.  Use this as an opportunity for you to model the behaviours that you wish the team to follow too.   If you want to encourage others to ask for feedback, lead by example and first ask for feedback from your team.  Share your failures, lessons and personal stories to help create a safe environment for others to do so to.
 
-### Develop leaders, not followers
-Solving problems effectively, means delegating ownership and decision making to your team. They are likely to be closer to the problem details than you are. Use the expertise within your team to solve problems.  As a manager, beware that providing solutions can demotivate your creative colleagues.  Use delegation to enable opportunities for personal development of others, and sponsor people for work that you think will appropriately challenge them.
+### Have a strategy
+Have a purpose, with some strategic objectives.  Just a few simple ones will do.  Your teams strategy should enable your team to help achieve the organisations strategy.  This should be based on where your team is now, and where they need to get to in the future.
+
+### Empower your team
+Giving your team autonomy without setting clear expectations results in anarchy.  Push decision making power close to the expertise.  Use the expertise within your team to solve problems.  Use delegation to enable opportunities for personal development of others, and sponsor people for work that you think will appropriately challenge them.  Give your team time and space to solve problems.  As a manager, beware that you consistently providing solutions can demotivate your creative colleagues.  It can be unconfortable to 'let go of control' to others, but this is central to developing others and removing yourself as a bottleneck to work.
 
 ### Practice your craft
 It's important to find time to practice your craft.  This helps you to stay connected to the challenges facing your team.  
