@@ -6,16 +6,13 @@ Development reviews are to:
 * reflect on your ambitions
 * plan your career development for the next 12 months 
 
-## Key differences
-Some key differences over past PDP/Appraisals you may have experienced at NICE: 
+## Key differences from last time
+Some key differences over appraisals/development reviews from last year: 
 
-* We will be using a [skill competency framework](../skill-framework/skill-framework.md) for:
-* We have two tracks: technical and management at lead developer level
-* We recognise ambitions to get better in your current role or to work towards a different role
-* We have a new form to support the review process
-* Structured 360 feedback will play a larger part of reviews.  This means asking your manager, your close colleagues and your line supports for feedback.  This is to ensure feedback is fair, multi-directional and more effective at planning skill development than feedback from just your line manager
+* For software developers, there is a [skill competency framework](../skill-framework/skill-framework.md) that we'll be using for reference.  Although this won't be the basis for 360 feedback this year (see next point)
+* The 360 feedback survey has changed and is not a Microsoft Forms template for you to copy and send out.  We're still using 360 feedback as this is to ensure feedback is fair, multi-directional and more effective at planning skill development than feedback from just your line manager.
 
-## Read [guidance for all developers](guidance-for-developers.md)
+## Read [guidance for all developers and testers](guidance-for-developers.md)
 
-## Read [guidance for managers](guidance-for-managers.md)
+## Read [guidance for managers (lead devs/lead testers](guidance-for-managers.md)
   
