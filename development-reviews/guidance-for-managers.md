@@ -1,18 +1,14 @@
 
-# Guidance for managers
+# Guidance for managers (leads)
 
 ## How to prepare for someone else's 12 month development review
 
-* Read the [Managers guidance document](http://space.nice.org.uk/sorce/beacon/dmdr/92181/view/Manager's%20Guidance.docx) from the NICE intranet
-* You should have an invitation for a development review meeting with your line support
-* **Feedback** - Your line support should have sent you an email asking for 360 feedbacks.  Provide specific feedback where you can.
-* Send this back to them in advance of the review meeting
+* Arrange a development review meeting with your line support, 1.5 hours and give at least a whole week for them to prepare for it.
+* **Expect to be asked for feedback** - Your line support should have sent you an email asking for 360 feedbacks.  Provide specific feedback where you can.
 * We encourage open, direct feedback but if you've been sent any confidential feedback about your line support, gather this for the meeting 
 
 ## What to do at the meeting
 You are essentially reviewing their 360 feedback and development plan, helping to discuss and agree appropriate development objectives.
-
-* Follow the guidance in the [Managers guidance document](http://space.nice.org.uk/sorce/beacon/dmdr/92181/view/Manager's%20Guidance.docx) from the NICE intranet for guidance on how to behave at the meeting
 * Review their 360 feedback to identify strengths and areas for development
 * Discuss how relevant and achievable the objectives are in their development plan.  Help to identify a stretch objective that will challenge them appropriately in relation to their development ambitions.  Make sure you both agree the objectives are appropriate for now.
 
