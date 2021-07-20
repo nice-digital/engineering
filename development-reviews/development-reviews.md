@@ -14,5 +14,5 @@ Some key differences over appraisals/development reviews from last year:
 
 ## Read [guidance for all developers and testers](guidance-for-developers.md)
 
-## Read [guidance for managers (lead devs/lead testers](guidance-for-managers.md)
+## Read [guidance for managers (lead devs/lead testers)](guidance-for-managers.md)
   
