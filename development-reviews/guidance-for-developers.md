@@ -1,4 +1,4 @@
-# Guidance for all developers
+# Guidance for all developers and testers
 
 ## IMPORTANT 
 
@@ -7,16 +7,14 @@ Your development plan is yours, not your managers or anyone elses.  It should ca
 
 ## How to prepare for your own development review
 
-* Ask for 360 feedback from your colleagues. Make a copy of this [360 feedback MS forms template](https://forms.office.com/Pages/ShareFormPage.aspx?id=efQwYEKzLUel3XQP91ON6b2B0Lj6-KRFi79WhBUXfkRUQkEyQVhYUEREVlo3TjhRU1FaUjk3OUhHMy4u&sharetoken=owNj6Zi0WKRM8432LUCT) and share with the people you work closely with. Do this first so that people have time to provide feedback (give them a week before your review if you can). Multiple perspectives are more useful than one perspective. You should be seeking feedback from your manager and some of the people that you've worked with, including from people working in related disciplines. Open and direct peer feedback is encouraged but there is also an option to provide confidential feedback via a line manager, should there be a need.
-* Create yourself a confluence page in the [DEV space](https://nicedigital.atlassian.net/wiki/spaces/DEV/overview) using the 'Career development plan - software developer' template.  Call your page 'Career development plan - ${Firstname} ${Lastname}'.
-* Click the padlock icon in the top right and make this page only visible to yourself and your line manager.
-* Fill in your career development plan page yourself (plan a couple of hours for this)
-  * The form is self explanatary but you can read the NICE HR's [Employee's guidance](http://space.nice.org.uk/sorce/beacon/dmdr/92191/view/Employee%20Guidance.docx) and [Employee step-by-step](http://space.nice.org.uk/sorce/beacon/dmdr/92091/view/Employee%20step%20by%20step%20guide.docx) from NICE Intranet. (NOTE we're using confluence template, not the My Contribution word document ,but its very similar).
-* Share the form and any 360 feedback with your manager in advance of your development review meeting (if you can)
+1. **Ask for 360 feedback from your colleagues**. Make a copy of this [360 feedback MS forms template](https://forms.office.com/Pages/ShareFormPage.aspx?id=efQwYEKzLUel3XQP91ON6b2B0Lj6-KRFi79WhBUXfkRUQkEyQVhYUEREVlo3TjhRU1FaUjk3OUhHMy4u&sharetoken=owNj6Zi0WKRM8432LUCT) and share with the people you work closely with. Do this first so that people have time to provide feedback (give them a week before your review if you can). Multiple perspectives are more useful than one perspective. You should be seeking feedback from your manager and some of the people that you've worked with, including from people working in related disciplines. Open and direct peer feedback is encouraged but there is also an option to provide confidential feedback via a line manager, should there be a need.
+2. **Create a development review confluence page.** Create yourself a confluence page in the [DEV space](https://nicedigital.atlassian.net/wiki/spaces/DEV/overview) using the 'Career development plan - software developer' template.  Call your page 'Career development plan - ${Firstname} ${Lastname} - ${currentYear}'.
+3. **Make it private**. Click the padlock icon in the top right and make this page only visible to yourself and your line manager.
+4. **Fill in the page** Fill in your career development plan page yourself (plan a couple of hours for this)
+5. **Share with your manager** Share the form and any 360 feedback with your manager in advance of your development review meeting (if you can)
 
 
 ## What to do at the meeting
-* Read the [Employee's guidance](http://space.nice.org.uk/sorce/beacon/dmdr/92191/view/Employee%20Guidance.docx) from the NICE intranet for guidance on what to do at the review meeting
 * Discuss your 360 feedback and development plan with your manager, they may make suggestions.
 * Work with your manager to identify an appropriately challenging stretch objective for yourself
 
