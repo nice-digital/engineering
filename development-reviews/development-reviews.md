@@ -10,7 +10,7 @@ Development reviews are to:
 Some key differences over appraisals/development reviews from last year: 
 
 * For software developers, there is a [skill competency framework](https://nice-digital.github.io/develop-your-skills/#/framework) that we'll be using for reference.  Although this won't be the basis for 360 feedback this year (see next point)
-* The 360 feedback survey has changed and is not a Microsoft Forms template for you to copy and send out.  We're still using 360 feedback as this is to ensure feedback is fair, multi-directional and more effective at planning skill development than feedback from just your line manager.
+* The 360 feedback survey has changed and is now an anonymous Microsoft Forms template for you to copy and send out.  We're still using 360 feedback as this is to ensure feedback is fair, multi-directional and more effective at planning skill development than feedback from just your line manager.
 
 ## Read [guidance for all developers and testers](guidance-for-developers.md)
 
