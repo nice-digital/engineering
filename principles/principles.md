@@ -9,7 +9,7 @@ Our source code trunk is always in a state of being ready for production.  It bu
 The code we write is owned by the team, not the author.  We write code with the needs of other developers in mind.  Code should be easily understood and maintained by developers in the future.  Code should clearly capture the intended behaviour of the system.  We write code to the best of our ability and the given contraints.  We appreciate that others can help to improve the code that we write.  Developers feel safe and empowered to point out problematic code.  When code is hard to understand we listen to the needs of others and improve it together.  
 
 ## Use standards from the start
-When starting something new, use our development standards from the beginning.  Understand the needs of the project and decide which standards are important.  Implement standards early and review them periodically.  Adopting standards retrospectively can be costly.  (TODO: Write standards for key areas such as front-end, accessibility, security etc)
+When starting something new, use development standards from the beginning.  Use the best practice standards already set out by the [GDS Technology Code of Practice](https://www.gov.uk/guidance/the-technology-code-of-practice). Understand the needs of the project and decide which standards are important.  Implement standards early and review them periodically.  Adopting standards retrospectively can be costly.  
 
 ## Use proven technologies - don't reinvent the wheel
 Take advantage of the good work that others have done before you.  Use proven technologies to solve common problems. Don't waste time writing software for problems that already have proven technology solutions.  
