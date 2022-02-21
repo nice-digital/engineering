@@ -89,6 +89,12 @@ Opportunities for **SKILL MASTERY** as an engineer
 
 Ask them if they have any feedback for you.  'What could i do differently that would improve how we work together?' Make sure you listen and discuss more to understand specific examples and the impact of this on them.
 
+#### The retention interview one
+Instead of holding an 'exit' interview when someone has given notice to leave, hold a 'retention' interview with the aim to actively address any concerns that may progress to someone wanting to move on from a role.  You can ask common exit interview questions, but framed around how to fix issues now, not after someone has already decided to leave
+* What would it take to convince you to stay for the next 12 months?
+* What do you think we do well here at NICE?
+* What do we need to improve here at NICE?
+
 ### General 1-1 questions
 #### Alignment questions
 This is where you want to discuss how connected or aligned an individual feels to the organization. These are particularly important following an engagement survey, or any big change in your organization.
