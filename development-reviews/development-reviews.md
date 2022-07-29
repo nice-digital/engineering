@@ -2,17 +2,19 @@
 # Development reviews one-pager
 
 Development reviews are to:
-* reflect on your strengths and areas for improvement over the last 12 months  
-* reflect on your ambitions
-* plan your career development for the next 12 months 
+ 
+* reflect on what's gone well for you personally at NICE over the last 12 months, and what's been challenging 
+* identify your longer term career ambitions
+* understand how your personal development goals align to and support the NICE delivery goals for the next 12 months
+* plan your career development priorities for the next 6 to 12 months 
 
-## Key differences from last time
-Some key differences over appraisals/development reviews from last year: 
-
-* We'll be storing development plans in confluence, not word documents like the rest of NICE.  This is because its easier to access and collaborate on confluence pages then it is emailing word documents around.  The form we'll be using is essentially the same as the 'My Contribution' word document that can be found on the NICE Space intranet.
-* HR have introduced a new section on 'Values and behaviours'.
-* For software developers, remember that we have the [skill competency framework](https://nice-digital.github.io/develop-your-skills/#/framework) that can be useful for planning skill development and showing whats expected at each level of developer from apprentice through to lead.  Although we won't be using this for 360 feedback this year.
-* The 360 feedback survey has changed and is now an anonymous Microsoft Forms template for you to copy and send out.  We're still using 360 feedback as this is to ensure feedback is fair, multi-directional and more effective at planning skill development than feedback from just your line manager.
+## Key points to note from last year
+Some key points to note: 
+ 
+* We'll still be storing development plans in confluence, not word documents like the rest of NICE.  This is because we're not officially meant to be using OneDrive yet for document storage and its easier to access and collaborate on confluence pages then it is emailing word documents around.  The form we'll be using is essentially the same as the 'My Contribution' word document that can be found on the NICE Space intranet. (There is an updated confluence page template 'Career development plan - software engineering team - 2022' in the Dev COP confluence space)
+* Everyone needs to have one new objective around equality, see the 'Employee Step by Step guide' in the Appraisals section on the NICE intranet
+* For software developers we have an updated [skill competency framework](https://niceuk-my.sharepoint.com/:x:/g/personal/james_kirk_nice_org_uk/ETtFM-cqCH9Krsm_aGe8NQkB6Mttmb3cpYYqIFVTYVjOhg?e=K7HMRZ) to help understand expectations across job levels and assist with career planning, if you find this useful.
+* If you want to do 360 feedback, we're still using the Microsoft Forms template.  
 
 ## Read [guidance for all developers and testers](guidance-for-developers.md)
 
