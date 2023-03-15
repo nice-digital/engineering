@@ -16,7 +16,7 @@ Some key points to note:
 * For software developers we have an updated [skill competency framework](https://niceuk-my.sharepoint.com/:x:/g/personal/james_kirk_nice_org_uk/ETtFM-cqCH9Krsm_aGe8NQkB6Mttmb3cpYYqIFVTYVjOhg?e=K7HMRZ) to help understand expectations across job levels and assist with career planning, if you find this useful.
 * 360 feedback is optional but recommended (see guidance for doing your own development review)
 
-## Read [guidance for all developers and testers](guidance-for-developers.md)
+## Read [guidance for writing your own review](guidance-for-own-review.md)
 
-## Read [guidance for managers (lead devs/lead testers)](guidance-for-managers.md)
+## Read [guidance for managers](guidance-for-managers.md)
   
