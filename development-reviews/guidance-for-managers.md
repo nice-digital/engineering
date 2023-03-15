@@ -17,9 +17,9 @@
 * Export your line supports development plan as PDF and email to hradvice
 
 ## Managers - What NOT to do for someones 12 month development review
-* Remember that its their development plan, not yours.  This means they should play a large part in coming up with suggested personal objectives, so listen to their suggestions first before suggesting your own ideas.
+* Remember that its their development plan, not yours.  This means they should play a large part in coming up with suggested personal objectives, so listen to their suggestions first before suggesting your own ideas.  It's your job to review objectives to see how well they align with the upcoming business goals 
 
-## 3 month development reviews
+## Quarterly development reviews
 * As a manager it's your responsibility to check up with your line supports to see how they are getting on and see if there is anything you can help to enable their development.  You should be aiming to have 1 development review conversation every 3 months minimum.
   
 
