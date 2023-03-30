@@ -1,6 +1,6 @@
 # Skill framework for developers
 
-This framework sets out [skill competencies](https://nice-digital.github.io/develop-your-skills/#/framework) and levels of expected skill for different levels of software developer working at NICE Digital. 
+This framework sets out [skill competencies](https://niceuk-my.sharepoint.com/:x:/g/personal/james_kirk_nice_org_uk/ETtFM-cqCH9Krsm_aGe8NQkBg6-ktYLiB46AYregM0owbA?e=NspW9F) and levels of expected skill for different levels of software developer working at NICE Digital. 
 
 ## What is a competency?
 
@@ -34,20 +34,4 @@ We think it's important for a skill competency framework to be:
 ## Skill framework 
 
 Our framework is based on the UK government Digital, Data and Techology (DDaT) capability framework for the technical job family of [software developer](https://www.gov.uk/guidance/software-developer).  Based on feedback from our team, we have added example skills and behaviours which are relevant to how we work at NICE Digital.  We have also added a few skills that we believe are missing from the framework but are relevant to working at NICE Digital, such as developing others and community participation.
-
-## Editing the skill framework data
-
-Although our framework is based on the DDaT framework, we have augmented it with more detail.  This data is fetched from here by our [develop your skills application](https://github.com/nice-digital/develop-your-skills).
-
-Skill data can be found in here:
-
-* [skills\example-skills.yml](skills\example-skills.yml) - collection of all possible levels of skill with examples, grouped by skill. Markdown can be used to add links in the examples.
-* [skills\example-roles.json](skills\example-roles.json) - a collection of all possible developer roles, with associations to levels of each skill
-* [skills\example-levels.json](skills\example-levels.json) - a definition of the names of the different levels used across all skills
-
-## Viewing the skill framework
-
-The skill framework is best viewed [here](https://nice-digital.github.io/develop-your-skills/#/framework).
-
-You can also use the skill framework to help [develop your skills](https://nice-digital.github.io/develop-your-skills);
 
