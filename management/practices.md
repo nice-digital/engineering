@@ -96,6 +96,14 @@ Instead of holding an 'exit' interview when someone has given notice to leave, h
 * What do we need to improve here at NICE?
 
 ### General 1-1 questions
+
+#### Evergreen questions
+* Help me to understand the problems you're facing?
+* Help me see what you're learning as a team?
+* What can i do to better support you and the team?
+* What things get in your way of doing your work effectively?
+* Tell me all the reasons why you can't deliver change to production every day?
+
 #### Alignment questions
 This is where you want to discuss how connected or aligned an individual feels to the organization. These are particularly important following an engagement survey, or any big change in your organization.
 
