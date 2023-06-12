@@ -1,6 +1,6 @@
 # Skill framework for developers
 
-This framework sets out [skill competencies](https://niceuk-my.sharepoint.com/:x:/g/personal/james_kirk_nice_org_uk/ETtFM-cqCH9Krsm_aGe8NQkBg6-ktYLiB46AYregM0owbA?e=NspW9F) and levels of expected skill for different levels of software developer working at NICE Digital. 
+This framework sets out [skill competencies](https://niceuk.sharepoint.com/sites/DIT_Engineering/_layouts/15/Doc.aspx?sourcedoc={44b57b0a-efe7-45f8-9960-0aa5b977cf47}&action=view) and levels of expected skill for different levels of software developer working at NICE Digital. 
 
 ## What is a competency?
 
