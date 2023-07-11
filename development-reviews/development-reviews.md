@@ -12,7 +12,7 @@ Development reviews are to:
 ## Key points to note from last year
 Some key points to note: 
  
-* For software developers we have an updated [skill competency framework](https://niceuk-my.sharepoint.com/:x:/g/personal/james_kirk_nice_org_uk/ETtFM-cqCH9Krsm_aGe8NQkB6Mttmb3cpYYqIFVTYVjOhg?e=K7HMRZ) to help understand expectations across job levels and assist with career planning, if you find this useful.
+* For software developers we have an updated [skill competency framework](https://niceuk.sharepoint.com/:x:/r/sites/DIT_Engineering/_layouts/15/Doc.aspx?sourcedoc=%7B44b57b0a-efe7-45f8-9960-0aa5b977cf47%7D&action=view) to help understand expectations across job levels and assist with career planning, if you find this useful.
 * 360 feedback is optional but recommended (see guidance for doing your own development review)
 
 ## Read [guidance for writing your own review](guidance-for-own-review.md)
