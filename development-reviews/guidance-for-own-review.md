@@ -9,9 +9,7 @@ Your personal development plan is yours to own, not your managers.  It should ca
 
 
 1. **A week before - if you want 360 feedback, send 360 feedback survey to your colleagues**. Make a copy of this [360 feedback MS forms template](https://forms.office.com/Pages/ShareFormPage.aspx?id=efQwYEKzLUel3XQP91ON6b2B0Lj6-KRFi79WhBUXfkRUQkEyQVhYUEREVlo3TjhRU1FaUjk3OUhHMy4u&sharetoken=owNj6Zi0WKRM8432LUCT) by clicking the duplicate button.  Then share with the people you work closely with. Do this first so that people have time to provide feedback (give them a week before your review if you can). Multiple perspectives are more useful than one perspective. You should be seeking feedback from your manager and some of the people that you've worked with, including from people working in related disciplines. Open and direct peer feedback is encouraged but there is also an option to provide confidential feedback via a line manager, should there be a need.   Feedback is captured anonymously by default.  
-2. **Create a new development review confluence page.** Create yourself a confluence page in the [DEV space](https://nicedigital.atlassian.net/wiki/spaces/DEV/overview) using the 'Career development plan - software engineering team 2023' template.  Call your page 'Career development plan - ${Firstname} ${Lastname} - ${currentYear}'.
-3. **Make it private**. Click the padlock icon in the top right and make this page only visible to yourself and your line manager.
-4. **Fill in the page** Fill in your career development plan page yourself (plan a couple of hours for this)
+2. **Follow guidance to create your appraisal in ESR** See the learning hub page [Preparing for your appraisal conversation](https://niceuk.sharepoint.com/sites/LearningHub/SitePages/Preparing-for-your-appraisal-conversation.aspx).
 
 
 ## A few days before the meeting
